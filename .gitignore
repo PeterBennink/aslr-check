@@ -1,5 +1,5 @@
 *
 
-!.sh
-!.md
-!.gitignore
+!*.sh
+!*.md
+!*.gitignore
