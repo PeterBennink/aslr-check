@@ -17,7 +17,6 @@ The operating systems we require should be often used server operating systems, 
  - [Debian 9](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-9.4.0-amd64-netinst.iso)
  - [SUSE 11]()
  - [SUSE 12]()
- - [openSUSE Leap 42.3](https://download.opensuse.org/distribution/leap/42.3/iso/openSUSE-Leap-42.3-NET-x86_64.iso)
 
 ## Optional
 
@@ -25,3 +24,4 @@ The operating systems we require should be often used server operating systems, 
  - [Windows Server 2016]()
  - [OpenBSD 6.1]()
  - [FreeBSD 11.1]()
+ - [openSUSE Leap 42.3](https://download.opensuse.org/distribution/leap/42.3/iso/openSUSE-Leap-42.3-NET-x86_64.iso)
