@@ -3,5 +3,6 @@
 !*.sh
 !*.md
 !*.gitignore
-!*.log
-!*.ods
+!output/*.log
+!output/*.ods
+!output/*.md
