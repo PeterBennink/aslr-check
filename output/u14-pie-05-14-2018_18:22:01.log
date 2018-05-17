@@ -43,7 +43,7 @@
 /usr/sbin/iconvconfig:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/sbin/tcpdmatch:
@@ -241,7 +241,7 @@
 /usr/sbin/zic:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/sbin/vpddecode:
@@ -511,7 +511,7 @@
 /usr/bin/apt-cdrom:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/setleds:
@@ -1129,7 +1129,7 @@
 /usr/bin/getconf:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/basename:
@@ -1303,7 +1303,7 @@
 /usr/bin/getent:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/dpkg-query:
@@ -1375,7 +1375,7 @@
 /usr/bin/localedef:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/crontab:
@@ -1393,7 +1393,7 @@
 /usr/bin/iconv:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/bsd-write:
@@ -1477,7 +1477,7 @@
 /usr/bin/pldd:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/mapscrn:
@@ -1771,7 +1771,7 @@
 /usr/bin/ul:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/apt-mark:
@@ -2059,7 +2059,7 @@
 /usr/bin/manpath:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /usr/bin/setlogcons:
@@ -2089,7 +2089,7 @@
 /usr/bin/locale:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/od:
@@ -2155,7 +2155,7 @@
 /usr/bin/update-mime-database.real:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/nproc:
@@ -2167,7 +2167,7 @@
 /usr/bin/zdump:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/grub-script-check:
@@ -2233,7 +2233,7 @@
 /usr/bin/line:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/ginstall-info:
@@ -2401,7 +2401,7 @@
 /usr/bin/col:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /sbin/start-stop-daemon:
@@ -2605,7 +2605,7 @@
 /sbin/runlevel:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /sbin/setvtrgb:
@@ -2719,7 +2719,7 @@
 /sbin/upstart-local-bridge:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /sbin/switch_root:
@@ -2803,7 +2803,7 @@
 /sbin/upstart-socket-bridge:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /sbin/mkswap:
@@ -2881,7 +2881,7 @@
 /sbin/reboot:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /sbin/plipconfig:
@@ -3091,7 +3091,7 @@
 /bin/ntfs-3g.probe:
  PIE: yes
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /bin/whiptail:

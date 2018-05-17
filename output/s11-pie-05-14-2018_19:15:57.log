@@ -133,7 +133,7 @@
 /usr/bin/vino-passwd:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/diff:
@@ -745,7 +745,7 @@
 /usr/bin/line:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/sg_rep_zones:
@@ -937,7 +937,7 @@
 /usr/bin/vte:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/fiascotopnm:
@@ -955,7 +955,7 @@
 /usr/bin/ppmlabel:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/ppmrough:
@@ -1009,7 +1009,7 @@
 /usr/bin/pacmd:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/pamtojpeg2k:
@@ -1117,7 +1117,7 @@
 /usr/bin/gnome-screenshot:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/xman:
@@ -1153,7 +1153,7 @@
 /usr/bin/desktop-file-validate:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/vncpasswd.arg:
@@ -1333,7 +1333,7 @@
 /usr/bin/gvfs-move:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/pgmabel:
@@ -1423,7 +1423,7 @@
 /usr/bin/locale:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/opielogin:
@@ -1579,7 +1579,7 @@
 /usr/bin/formail:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/smbspool:
@@ -1693,7 +1693,7 @@
 /usr/bin/lockfile:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/eog:
@@ -1723,7 +1723,7 @@
 /usr/bin/pamcomp:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/sg_rtpg:
@@ -1753,7 +1753,7 @@
 /usr/bin/fstopgm:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/gpgsm:
@@ -1795,7 +1795,7 @@
 /usr/bin/sgitopnm:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/gucharmap:
@@ -1837,7 +1837,7 @@
 /usr/bin/ppmtoilbm:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/infokey:
@@ -1957,7 +1957,7 @@
 /usr/bin/tartest:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/icewm:
@@ -2251,7 +2251,7 @@
 /usr/bin/ximtoppm:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/expand:
@@ -2359,7 +2359,7 @@
 /usr/bin/sqlite3:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/sss_ssh_authorizedkeys:
@@ -2377,7 +2377,7 @@
 /usr/bin/mtvtoppm:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/zipnote:
@@ -2413,7 +2413,7 @@
 /usr/bin/pbmtoibm23xx:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/cmuwmtopbm:
@@ -2431,7 +2431,7 @@
 /usr/bin/pnmtopclxl:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/prctl:
@@ -2617,7 +2617,7 @@
 /usr/bin/411toppm:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/dirname:
@@ -2629,7 +2629,7 @@
 /usr/bin/desktop-file-install:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/sfcbmof:
@@ -2695,7 +2695,7 @@
 /usr/bin/shcomp:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/xdbedizzy:
@@ -2797,7 +2797,7 @@
 /usr/bin/xbmtopbm:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/asn1Coding:
@@ -2875,7 +2875,7 @@
 /usr/bin/pnmtojpeg:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/pcxtoppm:
@@ -2911,7 +2911,7 @@
 /usr/bin/rasttopnm:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/ppmtolj:
@@ -2947,7 +2947,7 @@
 /usr/bin/gconftool-2:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/m2300w:
@@ -2983,7 +2983,7 @@
 /usr/bin/leaftoppm:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/envsubst:
@@ -3007,7 +3007,7 @@
 /usr/bin/tailf:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/hunspell:
@@ -3097,7 +3097,7 @@
 /usr/bin/infotopam:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/pnmcat:
@@ -3169,7 +3169,7 @@
 /usr/bin/sldtoppm:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/testsaslauthd:
@@ -3229,7 +3229,7 @@
 /usr/bin/xwdtopnm:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/pango-querymodules-64:
@@ -3397,7 +3397,7 @@
 /usr/bin/gethostip:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/giftopnm:
@@ -3421,7 +3421,7 @@
 /usr/bin/col:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/xprop:
@@ -3493,7 +3493,7 @@
 /usr/bin/gnome-panel:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/gkbd-indicator-plugins-capplet:
@@ -3559,7 +3559,7 @@
 /usr/bin/pfmtopam:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/nautilus-connect-server:
@@ -3595,7 +3595,7 @@
 /usr/bin/update-mime-database:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/unclutter:
@@ -3643,7 +3643,7 @@
 /usr/bin/espeak:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/eventlogadm:
@@ -3661,7 +3661,7 @@
 /usr/bin/nautilus-cd-burner:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/c++filt:
@@ -3679,7 +3679,7 @@
 /usr/bin/gnome-desktop-item-edit:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/pnmcrop:
@@ -3787,7 +3787,7 @@
 /usr/bin/BackGround:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/sg_luns:
@@ -3811,7 +3811,7 @@
 /usr/bin/pnmtorast:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/pdftops:
@@ -3847,7 +3847,7 @@
 /usr/bin/curl.openssl0:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/mt:
@@ -4039,7 +4039,7 @@
 /usr/bin/cpp-4.3:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/perl:
@@ -4105,7 +4105,7 @@
 /usr/bin/gnome-about-me:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/dasher:
@@ -4117,7 +4117,7 @@
 /usr/bin/iconv:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/opieinfo:
@@ -4141,7 +4141,7 @@
 /usr/bin/syslinux:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/ppmdist:
@@ -4219,7 +4219,7 @@
 /usr/bin/ppmtowinicon:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/xbacklight:
@@ -4261,7 +4261,7 @@
 /usr/bin/lpoptions:
  PIE: yes
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/xz:
@@ -4369,7 +4369,7 @@
 /usr/bin/gs:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/gvfs-cat:
@@ -4387,7 +4387,7 @@
 /usr/bin/eyuvtoppm:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/grolj4:
@@ -4573,7 +4573,7 @@
 /usr/bin/baobab:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/cpufreq-set:
@@ -4669,7 +4669,7 @@
 /usr/bin/gnome-system-log:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/sg_senddiag:
@@ -4765,7 +4765,7 @@
 /usr/bin/qdbusviewer:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/aseqdump:
@@ -4897,7 +4897,7 @@
 /usr/bin/bmptopnm:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/xtrapout:
@@ -5023,7 +5023,7 @@
 /usr/bin/qtconfig:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/gmime-uuencode:
@@ -5041,7 +5041,7 @@
 /usr/bin/escp2topbm:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/btcflash:
@@ -5155,7 +5155,7 @@
 /usr/bin/checkmedia:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/gpgv2:
@@ -5179,13 +5179,13 @@
 /usr/bin/gvfs-mount:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/hipstopgm:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/spctoppm:
@@ -5233,7 +5233,7 @@
 /usr/bin/smt:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/wget.openssl0:
@@ -5263,7 +5263,7 @@
 /usr/bin/gencat:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/xtrapstats:
@@ -5359,7 +5359,7 @@
 /usr/bin/mbchk:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/finger:
@@ -5401,7 +5401,7 @@
 /usr/bin/getent:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/linc-cleanup-sockets:
@@ -5545,7 +5545,7 @@
 /usr/bin/mrftopbm:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/gprof:
@@ -5815,7 +5815,7 @@
 /usr/bin/pjtoppm:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/id:
@@ -5887,7 +5887,7 @@
 /usr/bin/ppmspread:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/icctrans:
@@ -5929,13 +5929,13 @@
 /usr/bin/yuvsplittoppm:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/mgrtopbm:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/pre-grohtml:
@@ -6043,7 +6043,7 @@
 /usr/bin/extlinux:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/gvfs-monitor-dir:
@@ -6247,7 +6247,7 @@
 /usr/bin/gtk-update-icon-cache:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/pgmminkowski:
@@ -6307,7 +6307,7 @@
 /usr/bin/sirtopnm:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/gvfs-info:
@@ -6529,7 +6529,7 @@
 /usr/bin/pamperspective:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/sfconvert:
@@ -6541,7 +6541,7 @@
 /usr/bin/localedef:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/ftmulti:
@@ -6559,7 +6559,7 @@
 /usr/bin/pbmtext:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/cupstestdsc:
@@ -6601,7 +6601,7 @@
 /usr/bin/xvminitoppm:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/applydeltarpm:
@@ -6655,7 +6655,7 @@
 /usr/bin/gvfs-save:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/uniq:
@@ -6763,7 +6763,7 @@
 /usr/bin/ilbmtoppm:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/ntlm_auth:
@@ -6961,7 +6961,7 @@
 /usr/bin/zypper:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/ico:
@@ -7069,7 +7069,7 @@
 /usr/bin/yuvtoppm:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/fc-match:
@@ -7135,7 +7135,7 @@
 /usr/bin/vitmp:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/chrp-addnote:
@@ -7207,7 +7207,7 @@
 /usr/bin/gnome-appearance-properties:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/xargs:
@@ -7369,7 +7369,7 @@
 /usr/bin/qrttoppm:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/pbmtoppa:
@@ -7435,7 +7435,7 @@
 /usr/bin/gvfs-copy:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/pbmtogem:
@@ -7459,7 +7459,7 @@
 /usr/bin/ck-history:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/gtf:
@@ -7513,7 +7513,7 @@
 /usr/bin/pnmhistmap:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/wbinfo:
@@ -7597,7 +7597,7 @@
 /usr/bin/pnmtopalm:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/nohup:
@@ -7735,7 +7735,7 @@
 /usr/bin/getconf:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/cytune:
@@ -7945,7 +7945,7 @@
 /usr/bin/gouldtoppm:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/dfbpenmount:
@@ -8137,7 +8137,7 @@
 /usr/bin/isohybrid:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/directfb-csource:
@@ -8671,7 +8671,7 @@
 /bin/ksh93:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /bin/stty:
@@ -8893,7 +8893,7 @@
 /bin/initviocons:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /bin/deallocvt:
@@ -9031,7 +9031,7 @@
 /usr/sbin/iconvconfig:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/sbin/ifdproxy:
@@ -9319,7 +9319,7 @@
 /usr/sbin/thin_dump:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/sbin/rndc:
@@ -9553,7 +9553,7 @@
 /usr/sbin/thin_restore:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/sbin/fbmngplay:
@@ -10057,7 +10057,7 @@
 /usr/sbin/thin_check:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/sbin/s2disk:
@@ -10171,7 +10171,7 @@
 /usr/sbin/grub:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/sbin/yptest:
@@ -10189,7 +10189,7 @@
 /usr/sbin/postconf:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/sbin/useradd:
@@ -10297,7 +10297,7 @@
 /usr/sbin/rpcinfo:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/sbin/xfs_fsr:
@@ -10657,7 +10657,7 @@
 /sbin/haveged:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /sbin/mount.nfs:
@@ -11041,7 +11041,7 @@
 /sbin/dmevent_tool:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /sbin/detectups:
@@ -11299,7 +11299,7 @@
 /sbin/eliloalt:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /sbin/fsck.reiserfs:
@@ -11449,7 +11449,7 @@
 /sbin/rmt:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /sbin/multipath:
@@ -11467,7 +11467,7 @@
 /sbin/nologin:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /sbin/blockdev:
@@ -11563,7 +11563,7 @@
 /sbin/dmraid:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /sbin/elvtune:

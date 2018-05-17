@@ -37,7 +37,7 @@
 /usr/sbin/zic:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /usr/sbin/irqbalance-ui:
@@ -385,7 +385,7 @@
 /usr/sbin/iconvconfig:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /usr/sbin/grub-mkdevicemap:
@@ -709,7 +709,7 @@
 /usr/bin/ul:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /usr/bin/lsof:
@@ -787,7 +787,7 @@
 /usr/bin/lxc:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/tsort:
@@ -955,7 +955,7 @@
 /usr/bin/apt-sortpkgs:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /usr/bin/x86_64-linux-gnu-as:
@@ -1195,7 +1195,7 @@
 /usr/bin/getconf:
  PIE: yes
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /usr/bin/dirmngr:
@@ -1303,7 +1303,7 @@
 /usr/bin/locale:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /usr/bin/mcookie:
@@ -1345,7 +1345,7 @@
 /usr/bin/col:
  PIE: yes
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /usr/bin/find:
@@ -1441,7 +1441,7 @@
 /usr/bin/ischroot:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /usr/bin/faillog:
@@ -1693,7 +1693,7 @@
 /usr/bin/getent:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /usr/bin/lsns:
@@ -1813,13 +1813,13 @@
 /usr/bin/iconv:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /usr/bin/apt-get:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /usr/bin/sum:
@@ -2119,7 +2119,7 @@
 /usr/bin/localedef:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /usr/bin/bsd-write:
@@ -2257,7 +2257,7 @@
 /usr/bin/pldd:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /usr/bin/mapscrn:
@@ -2479,7 +2479,7 @@
 /usr/bin/zdump:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /usr/bin/prtstat:
@@ -2737,7 +2737,7 @@
 /usr/bin/update-mime-database:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /usr/bin/grub-mkstandalone:
@@ -2803,13 +2803,13 @@
 /usr/bin/manpath:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /usr/bin/apt-config:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /usr/bin/dpkg-trigger:
@@ -2857,7 +2857,7 @@
 /usr/bin/vmtoolsd:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /usr/bin/elfedit:
@@ -2881,7 +2881,7 @@
 /usr/bin/apt-cdrom:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /usr/bin/catman:
@@ -2953,7 +2953,7 @@
 /sbin/dmsetup:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /sbin/mount.fuse:
@@ -2983,7 +2983,7 @@
 /sbin/lvmpolld:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /sbin/findfs:
@@ -3181,7 +3181,7 @@
 /sbin/fixparts:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /sbin/fstab-decode:
@@ -3199,7 +3199,7 @@
 /sbin/lvm:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /sbin/fsck.fat:
@@ -3343,13 +3343,13 @@
 /sbin/dmeventd:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /sbin/lvmetad:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /sbin/ntfscp:
@@ -4075,7 +4075,7 @@
 /bin/ntfs-3g.probe:
  PIE: yes
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /bin/lowntfs-3g:

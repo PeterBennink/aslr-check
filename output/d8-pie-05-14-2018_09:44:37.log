@@ -31,7 +31,7 @@
 /usr/bin/getent:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/loadunimap:
@@ -67,7 +67,7 @@
 /usr/bin/grub-mkfont:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/bin/gpasswd:
@@ -157,13 +157,13 @@
 /usr/bin/dwp:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/grub-menulst2cfg:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/bin/ssh-keygen:
@@ -175,7 +175,7 @@
 /usr/bin/zdump:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/chsh:
@@ -199,7 +199,7 @@
 /usr/bin/updatedb.mlocate:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/bin/hexdump:
@@ -247,7 +247,7 @@
 /usr/bin/ar:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/tsort:
@@ -289,13 +289,13 @@
 /usr/bin/pldd:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/patch:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/bin/dig:
@@ -349,7 +349,7 @@
 /usr/bin/ul:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/apt-sortpkgs:
@@ -361,7 +361,7 @@
 /usr/bin/x86_64-linux-gnu-readelf:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/troff:
@@ -409,7 +409,7 @@
 /usr/bin/grub-mkrelpath:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/bin/seq:
@@ -439,7 +439,7 @@
 /usr/bin/grub-file:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/bin/ischroot:
@@ -493,7 +493,7 @@
 /usr/bin/formail:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/lsattr:
@@ -511,7 +511,7 @@
 /usr/bin/grub-editenv:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/bin/ncal:
@@ -571,7 +571,7 @@
 /usr/bin/objcopy:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/chattr:
@@ -637,7 +637,7 @@
 /usr/bin/grub-mkrescue:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/bin/logname:
@@ -649,7 +649,7 @@
 /usr/bin/xauth:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/bin/basename:
@@ -673,7 +673,7 @@
 /usr/bin/sq:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/fold:
@@ -691,7 +691,7 @@
 /usr/bin/grub-mount:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/bin/oldfind:
@@ -763,7 +763,7 @@
 /usr/bin/unsq:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/tac:
@@ -787,7 +787,7 @@
 /usr/bin/ijoin:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/man:
@@ -889,7 +889,7 @@
 /usr/bin/x86_64-linux-gnu-elfedit:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/ipcmk:
@@ -901,7 +901,7 @@
 /usr/bin/ranlib:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/addpart:
@@ -955,7 +955,7 @@
 /usr/bin/nm:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/uptime:
@@ -973,7 +973,7 @@
 /usr/bin/grub-mknetdir:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/bin/lscpu:
@@ -1015,7 +1015,7 @@
 /usr/bin/ispell:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/systemd-cgtop:
@@ -1033,13 +1033,13 @@
 /usr/bin/localedef:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/lockfile:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/tload:
@@ -1093,7 +1093,7 @@
 /usr/bin/readelf:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/lsusb:
@@ -1177,7 +1177,7 @@
 /usr/bin/elfedit:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/peekfd:
@@ -1189,7 +1189,7 @@
 /usr/bin/gprof:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/apt-get:
@@ -1207,7 +1207,7 @@
 /usr/bin/getconf:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/setvtrgb:
@@ -1225,7 +1225,7 @@
 /usr/bin/paperconf:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/bin/toe:
@@ -1255,7 +1255,7 @@
 /usr/bin/grub-render-label:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/bin/column:
@@ -1285,7 +1285,7 @@
 /usr/bin/grub-mklayout:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/bin/pgrep:
@@ -1357,7 +1357,7 @@
 /usr/bin/locale:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/setterm:
@@ -1429,7 +1429,7 @@
 /usr/bin/mlocate:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/bin/delpart:
@@ -1441,7 +1441,7 @@
 /usr/bin/size:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/install:
@@ -1453,13 +1453,13 @@
 /usr/bin/manpath:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /usr/bin/grub-mkimage:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/bin/acpi:
@@ -1483,31 +1483,31 @@
 /usr/bin/lnstat:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/bin/telnet.netkit:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/bin/c++filt:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/col:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/grub-syslinux2cfg:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/bin/pic:
@@ -1651,7 +1651,7 @@
 /usr/bin/apt-cdrom:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /usr/bin/groups:
@@ -1663,7 +1663,7 @@
 /usr/bin/buildhash:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/dpkg-query:
@@ -1687,7 +1687,7 @@
 /usr/bin/grub-glue-efi:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/bin/apt:
@@ -1705,7 +1705,7 @@
 /usr/bin/nstat:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/bin/runcon:
@@ -1753,7 +1753,7 @@
 /usr/bin/addr2line:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/base64:
@@ -1765,7 +1765,7 @@
 /usr/bin/grub-mkpasswd-pbkdf2:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/bin/dpkg-statoverride:
@@ -1861,7 +1861,7 @@
 /usr/bin/strip:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/gpg:
@@ -1873,13 +1873,13 @@
 /usr/bin/ld.bfd:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/as:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/mcookie:
@@ -1915,7 +1915,7 @@
 /usr/bin/grub-script-check:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/bin/setkeycodes:
@@ -1951,7 +1951,7 @@
 /usr/bin/iconv:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/localectl:
@@ -1969,7 +1969,7 @@
 /usr/bin/objdump:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/gpgconf:
@@ -1981,7 +1981,7 @@
 /usr/bin/update-mime-database.real:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/catman:
@@ -1993,7 +1993,7 @@
 /usr/bin/at:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /usr/bin/dotlockfile:
@@ -2017,7 +2017,7 @@
 /usr/bin/ld.gold:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/dpkg-trigger:
@@ -2095,7 +2095,7 @@
 /usr/bin/grub-fstest:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/bin/kbdinfo:
@@ -2113,7 +2113,7 @@
 /usr/bin/line:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/time:
@@ -2155,7 +2155,7 @@
 /usr/bin/strings:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/tput:
@@ -2197,7 +2197,7 @@
 /usr/bin/grub-mkstandalone:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/bin/fc-scan:
@@ -2239,7 +2239,7 @@
 /usr/bin/icombine:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /bin/systemd-notify:
@@ -2353,7 +2353,7 @@
 /bin/ip:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /bin/bunzip2:
@@ -2713,7 +2713,7 @@
 /bin/ss:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /bin/chown:

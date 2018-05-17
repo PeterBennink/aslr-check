@@ -25,7 +25,7 @@
 /sbin/runlevel:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /sbin/fsck.ext3:
@@ -163,7 +163,7 @@
 /sbin/nologin:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /sbin/insmod:
@@ -403,7 +403,7 @@
 /sbin/genhostid:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /sbin/chkconfig:
@@ -613,7 +613,7 @@
 /sbin/reboot:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: yes
 /sbin/lvm:
@@ -1249,13 +1249,13 @@
 /usr/sbin/iconvconfig.x86_64:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/sbin/iconvconfig:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/sbin/selinuxdefcon:
@@ -1267,7 +1267,7 @@
 /usr/sbin/setcap:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/sbin/postlock:
@@ -1315,7 +1315,7 @@
 /usr/sbin/getcap:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/sbin/groupadd:
@@ -1477,7 +1477,7 @@
 /usr/sbin/makedumpfile:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/sbin/cracklib-unpacker:
@@ -1585,7 +1585,7 @@
 /usr/sbin/zdump:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/sbin/sendmail.postfix:
@@ -1609,7 +1609,7 @@
 /usr/sbin/capsh:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/sbin/pwck:
@@ -1651,7 +1651,7 @@
 /usr/sbin/getpcaps:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/sbin/run_init:
@@ -1813,7 +1813,7 @@
 /usr/sbin/tzdata-update:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/sbin/pluginviewer:
@@ -1831,7 +1831,7 @@
 /usr/sbin/zic:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/shuf:
@@ -1855,7 +1855,7 @@
 /usr/bin/getent:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/cal:
@@ -1879,7 +1879,7 @@
 /usr/bin/tailf:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/bin/fallocate:
@@ -1963,7 +1963,7 @@
 /usr/bin/sprof:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/showkey:
@@ -2203,7 +2203,7 @@
 /usr/bin/rpcgen:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/install:
@@ -2311,7 +2311,7 @@
 /usr/bin/getconf:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/grn:
@@ -2413,7 +2413,7 @@
 /usr/bin/curl:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/bin/nohup:
@@ -2593,7 +2593,7 @@
 /usr/bin/locale:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/resizecons:
@@ -2803,7 +2803,7 @@
 /usr/bin/gencat:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/vmstat:
@@ -2857,7 +2857,7 @@
 /usr/bin/localedef:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/c++filt:
@@ -3247,7 +3247,7 @@
 /usr/bin/iconv:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: yes
  Immediate binding: no
 /usr/bin/db_archive:
@@ -3319,7 +3319,7 @@
 /usr/bin/update-mime-database:
  PIE: no
  Stack protected: no
- Fortify Source functions: no
+ Fortify Source functions: no, only unprotected functions found!
  RELRO: no
  Immediate binding: no
 /usr/bin/pcregrep:
