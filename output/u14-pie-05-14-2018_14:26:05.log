@@ -1123,7 +1123,7 @@
 /usr/bin/clear:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/apt-cdrom:
@@ -1231,7 +1231,7 @@
 /usr/bin/apt-mark:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/grub-mkpasswd-pbkdf2:
@@ -1885,7 +1885,7 @@
 /usr/bin/apt:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/apt-get:
@@ -1987,7 +1987,7 @@
 /usr/bin/perl5.22-x86_64-linux-gnu:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/whereis:
@@ -2545,7 +2545,7 @@
 /sbin/ldconfig.real:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /sbin/tune2fs:

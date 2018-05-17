@@ -103,7 +103,7 @@
 /usr/sbin/init.lxc.static:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/sbin/acpid:
@@ -499,7 +499,7 @@
 /usr/bin/vmware-vgauth-cmd:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/ssh-keyscan:
@@ -745,7 +745,7 @@
 /usr/bin/perl5.26-x86_64-linux-gnu:
  PIE: yes
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/unexpand:
@@ -889,7 +889,7 @@
 /usr/bin/look:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/systemd-delta:
@@ -913,7 +913,7 @@
 /usr/bin/pkaction:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/htop:
@@ -1465,7 +1465,7 @@
 /usr/bin/vmware-hgfsclient:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/setarch:
@@ -2065,7 +2065,7 @@
 /usr/bin/pkttyagent:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/top:
@@ -2323,7 +2323,7 @@
 /usr/bin/pkcheck:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/base64:
@@ -2371,7 +2371,7 @@
 /usr/bin/apt:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/apt-ftparchive:
@@ -2677,7 +2677,7 @@
 /usr/bin/colrm:
  PIE: yes
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/lsusb:
@@ -2821,7 +2821,7 @@
 /usr/bin/apt-mark:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/vim.basic:
@@ -2839,7 +2839,7 @@
 /usr/bin/vmware-toolbox-cmd:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/pkexec:
@@ -3379,7 +3379,7 @@
 /sbin/ldconfig.real:
  PIE: no, regular shared library (ignored)
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /sbin/swaplabel:
@@ -3487,7 +3487,7 @@
 /sbin/ebtables:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /sbin/rtmon:
@@ -3715,7 +3715,7 @@
 /bin/busybox:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /bin/mktemp:

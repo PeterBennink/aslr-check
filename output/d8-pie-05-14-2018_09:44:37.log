@@ -97,7 +97,7 @@
 /usr/bin/perl5.20.2:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/sha512sum:
@@ -127,7 +127,7 @@
 /usr/bin/look:
  PIE: no
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/fc-query:
@@ -235,7 +235,7 @@
 /usr/bin/clear:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/aptitude-curses:
@@ -355,7 +355,7 @@
 /usr/bin/apt-sortpkgs:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/x86_64-linux-gnu-readelf:
@@ -445,7 +445,7 @@
 /usr/bin/ischroot:
  PIE: no
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/whois:
@@ -535,7 +535,7 @@
 /usr/bin/apt-config:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/usbhid-dump:
@@ -1309,7 +1309,7 @@
 /usr/bin/colrm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/prtstat:
@@ -1471,7 +1471,7 @@
 /usr/bin/perl:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/whatis:
@@ -1603,7 +1603,7 @@
 /usr/bin/defmt-sh:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: no
  Immediate binding: no
 /usr/bin/gpgv:
@@ -1693,7 +1693,7 @@
 /usr/bin/apt:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/unexpand:
@@ -1813,7 +1813,7 @@
 /usr/bin/defmt-c:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: no
  Immediate binding: no
 /usr/bin/file:
