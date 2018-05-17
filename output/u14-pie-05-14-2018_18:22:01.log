@@ -487,7 +487,7 @@
 /usr/bin/apt:
  PIE: no
  Stack protected: no
- Fortify: unknown, no protectable libc functions used
+ Fortify: unknown
  RELRO: yes
  Immediate binding: no
 /usr/bin/dpkg-split:
@@ -1369,7 +1369,7 @@
 /usr/bin/look:
  PIE: no
  Stack protected: no
- Fortify: unknown, no protectable libc functions used
+ Fortify: unknown
  RELRO: yes
  Immediate binding: no
 /usr/bin/localedef:
@@ -1567,7 +1567,7 @@
 /usr/bin/apt-config:
  PIE: no
  Stack protected: no
- Fortify: unknown, no protectable libc functions used
+ Fortify: unknown
  RELRO: yes
  Immediate binding: no
 /usr/bin/grub-mount:
@@ -1603,7 +1603,7 @@
 /usr/bin/perl:
  PIE: no
  Stack protected: no
- Fortify: unknown, no protectable libc functions used
+ Fortify: unknown
  RELRO: yes
  Immediate binding: no
 /usr/bin/logger:
@@ -1741,7 +1741,7 @@
 /usr/bin/perl5.18.2:
  PIE: no
  Stack protected: no
- Fortify: unknown, no protectable libc functions used
+ Fortify: unknown
  RELRO: yes
  Immediate binding: no
 /usr/bin/mlocate:
@@ -1987,7 +1987,7 @@
 /usr/bin/ischroot:
  PIE: no
  Stack protected: no
- Fortify: unknown, no protectable libc functions used
+ Fortify: unknown
  RELRO: yes
  Immediate binding: no
 /usr/bin/tsort:
@@ -2071,7 +2071,7 @@
 /usr/bin/apt-sortpkgs:
  PIE: no
  Stack protected: no
- Fortify: unknown, no protectable libc functions used
+ Fortify: unknown
  RELRO: yes
  Immediate binding: no
 /usr/bin/users:
@@ -2179,7 +2179,7 @@
 /usr/bin/clear:
  PIE: no
  Stack protected: no
- Fortify: unknown, no protectable libc functions used
+ Fortify: unknown
  RELRO: yes
  Immediate binding: no
 /usr/bin/sha512sum:
@@ -2371,7 +2371,7 @@
 /usr/bin/colrm:
  PIE: no
  Stack protected: no
- Fortify: unknown, no protectable libc functions used
+ Fortify: unknown
  RELRO: yes
  Immediate binding: no
 /usr/bin/loadunimap:
@@ -2479,7 +2479,7 @@
 /sbin/upstart-dbus-bridge:
  PIE: yes
  Stack protected: no
- Fortify: unknown, no protectable libc functions used
+ Fortify: unknown
  RELRO: yes
  Immediate binding: yes
 /sbin/badblocks:
@@ -2515,7 +2515,7 @@
 /sbin/upstart-udev-bridge:
  PIE: yes
  Stack protected: no
- Fortify: unknown, no protectable libc functions used
+ Fortify: unknown
  RELRO: yes
  Immediate binding: yes
 /sbin/slattach:
@@ -2533,7 +2533,7 @@
 /sbin/ctrlaltdel:
  PIE: no
  Stack protected: no
- Fortify: unknown, no protectable libc functions used
+ Fortify: unknown
  RELRO: yes
  Immediate binding: no
 /sbin/xtables-multi:
@@ -2665,7 +2665,7 @@
 /sbin/ldconfig.real:
  PIE: no
  Stack protected: no
- Fortify: unknown, no protectable libc functions used
+ Fortify: unknown
  RELRO: yes
  Immediate binding: no
 /sbin/ntfsresize:
@@ -3049,7 +3049,7 @@
 /sbin/upstart-event-bridge:
  PIE: yes
  Stack protected: no
- Fortify: unknown, no protectable libc functions used
+ Fortify: unknown
  RELRO: yes
  Immediate binding: yes
 /sbin/telinit:
@@ -3445,7 +3445,7 @@
 /bin/busybox:
  PIE: no
  Stack protected: no
- Fortify: unknown, no protectable libc functions used
+ Fortify: unknown
  RELRO: yes
  Immediate binding: no
 /bin/openvt:
