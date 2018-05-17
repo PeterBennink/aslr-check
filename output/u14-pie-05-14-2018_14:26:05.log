@@ -97,13 +97,13 @@
 /usr/sbin/iconvconfig:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/sbin/zic:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/sbin/ldattach:
@@ -493,7 +493,7 @@
 /usr/bin/getent:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/xxd:
@@ -565,13 +565,13 @@
 /usr/bin/zdump:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/locale:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/link:
@@ -685,7 +685,7 @@
 /usr/bin/apt-sortpkgs:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: yes
 /usr/bin/x86_64-linux-gnu-objcopy:
@@ -901,7 +901,7 @@
 /usr/bin/pldd:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/scriptreplay:
@@ -943,7 +943,7 @@
 /usr/bin/localedef:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/screendump:
@@ -991,7 +991,7 @@
 /usr/bin/ischroot:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/apt-extracttemplates:
@@ -1111,7 +1111,7 @@
 /usr/bin/apt-config:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: yes
 /usr/bin/md5sum:
@@ -1129,7 +1129,7 @@
 /usr/bin/apt-cdrom:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: yes
 /usr/bin/eject:
@@ -1399,7 +1399,7 @@
 /usr/bin/getconf:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/hostid:
@@ -1465,7 +1465,7 @@
 /usr/bin/update-mime-database.real:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/gettext:
@@ -1891,7 +1891,7 @@
 /usr/bin/apt-get:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: yes
 /usr/bin/apt-ftparchive:
@@ -1927,7 +1927,7 @@
 /usr/bin/iconv:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/setkeycodes:

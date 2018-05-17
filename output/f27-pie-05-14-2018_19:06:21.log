@@ -19,7 +19,7 @@
 /usr/bin/gencat:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/pgrep:
@@ -31,7 +31,7 @@
 /usr/bin/getconf:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/pidof:
@@ -43,7 +43,7 @@
 /usr/bin/getent:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/pmap:
@@ -55,7 +55,7 @@
 /usr/bin/iconv:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/pkill:
@@ -67,7 +67,7 @@
 /usr/bin/locale:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/ps:
@@ -79,7 +79,7 @@
 /usr/bin/localedef:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/pwdx:
@@ -97,7 +97,7 @@
 /usr/bin/makedb:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/nf-ct-list:
@@ -109,7 +109,7 @@
 /usr/bin/pldd:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/nf-exp-add:
@@ -121,7 +121,7 @@
 /usr/bin/rpcgen:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/nf-exp-delete:
@@ -139,7 +139,7 @@
 /usr/bin/sprof:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/nf-log:
@@ -1273,7 +1273,7 @@
 /usr/bin/gio:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: yes
 /usr/bin/eu-addr2line:
@@ -1801,7 +1801,7 @@
 /usr/bin/desktop-file-install:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: yes
 /usr/bin/python3.6:
@@ -2029,7 +2029,7 @@
 /usr/bin/ntfs-3g.probe:
  PIE: yes
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: yes
 /usr/bin/python2.7:
@@ -2095,7 +2095,7 @@
 /usr/bin/update-mime-database:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: yes
 /usr/bin/fc-scan:
@@ -2203,7 +2203,7 @@
 /usr/bin/desktop-file-validate:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: yes
 /usr/bin/update-desktop-database:
@@ -2695,7 +2695,7 @@
 /usr/bin/grub2-editenv:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/renice:
@@ -2719,7 +2719,7 @@
 /usr/bin/grub2-glue-efi:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/script:
@@ -2755,7 +2755,7 @@
 /usr/bin/grub2-fstest:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/setpriv:
@@ -2773,7 +2773,7 @@
 /usr/bin/grub2-mkfont:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/setterm:
@@ -2797,7 +2797,7 @@
 /usr/bin/grub2-mklayout:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/taskset:
@@ -2821,7 +2821,7 @@
 /usr/bin/grub2-mknetdir:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/umount:
@@ -2833,13 +2833,13 @@
 /usr/bin/grub2-mkrescue:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/grub2-mkstandalone:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/unshare:
@@ -2851,7 +2851,7 @@
 /usr/bin/grub2-syslinux2cfg:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/utmpdump:
@@ -3037,7 +3037,7 @@
 /usr/bin/reporter-systemd-journal:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: yes
 /usr/bin/pkla-admin-identities:
@@ -3067,13 +3067,13 @@
 /usr/bin/grub2-file:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/grub2-mkpasswd-pbkdf2:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/l2test:
@@ -3157,7 +3157,7 @@
 /usr/bin/grub2-mkrelpath:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/gpg-connect-agent:
@@ -3169,7 +3169,7 @@
 /usr/bin/abrt-watch-log:
  PIE: yes
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: yes
 /usr/bin/gpgconf:
@@ -3181,7 +3181,7 @@
 /usr/bin/grub2-script-check:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/gpgparsemail:
@@ -3331,7 +3331,7 @@
 /usr/bin/udisksctl:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: yes
 /usr/bin/teamdctl:
@@ -3379,7 +3379,7 @@
 /usr/bin/pkcon:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: yes
 /usr/bin/guile:
@@ -3475,7 +3475,7 @@
 /usr/bin/grub2-menulst2cfg:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/sftp:
@@ -3493,7 +3493,7 @@
 /usr/bin/grub2-mkimage:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/ssh:
@@ -3679,7 +3679,7 @@
 /usr/bin/abrt-action-trim-files:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: yes
 /usr/bin/abrt-dump-journal-core:
@@ -3691,7 +3691,7 @@
 /usr/bin/abrt-merge-pstoreoops:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: yes
 /usr/bin/abrt-dump-journal-xorg:
@@ -3883,7 +3883,7 @@
 /usr/bin/manpath:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: yes
 /usr/bin/openpgp-tool:
@@ -4171,7 +4171,7 @@
 /usr/bin/secret-tool:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: yes
 /usr/bin/pk11install:
@@ -4183,7 +4183,7 @@
 /usr/bin/grub2-render-label:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/chronyc:
@@ -4339,7 +4339,7 @@
 /usr/sbin/zdump:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/sbin/pam_tally2:
@@ -4351,7 +4351,7 @@
 /usr/sbin/zic:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/sbin/fsck:
@@ -4393,7 +4393,7 @@
 /usr/sbin/iconvconfig:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/sbin/nfbpf_compile:
@@ -4405,7 +4405,7 @@
 /usr/sbin/iconvconfig.x86_64:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/sbin/xtables-multi:
@@ -4765,7 +4765,7 @@
 /usr/sbin/fixparts:
  PIE: no
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/sbin/useradd:
@@ -5485,7 +5485,7 @@
 /usr/sbin/grub2-ofpathname:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/sbin/e2label:
@@ -5497,7 +5497,7 @@
 /usr/sbin/grub2-sparc64-setup:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/sbin/tune2fs:
@@ -5677,7 +5677,7 @@
 /usr/sbin/genhostid:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: yes
 /usr/sbin/netreport:
@@ -5725,7 +5725,7 @@
 /usr/sbin/remotectl:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: yes
 /usr/sbin/sss_cache:
@@ -5779,25 +5779,25 @@
 /usr/sbin/grub2-bios-setup:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/sbin/grub2-install:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/sbin/grub2-probe:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/sbin/grub2-rpm-sort:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/sbin/abrt-configuration:
@@ -5911,7 +5911,7 @@
 /usr/sbin/makedumpfile:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/sbin/vmcore-dmesg:
@@ -6007,7 +6007,7 @@
 /usr/sbin/realm:
  PIE: yes
  Stack protected: yes
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: yes
 /usr/sbin/setup:
@@ -6271,7 +6271,7 @@
 /usr/sbin/grub2-macbless:
  PIE: no
  Stack protected: no
- Fortify Source functions: no, only unprotected functions found!
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/sbin/grubby:
