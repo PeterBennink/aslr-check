@@ -103,7 +103,7 @@
 /usr/bin/nf-ct-list:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/pldd:
@@ -133,7 +133,7 @@
 /usr/bin/nf-exp-list:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/sprof:
@@ -217,7 +217,7 @@
 /usr/bin/nl-class-list:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/nl-classid-lookup:
@@ -241,13 +241,13 @@
 /usr/bin/nl-cls-list:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/nl-fib-lookup:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/nl-link-enslave:
@@ -259,7 +259,7 @@
 /usr/bin/nl-link-ifindex2name:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/info:
@@ -271,7 +271,7 @@
 /usr/bin/nl-link-list:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/xmlcatalog:
@@ -385,7 +385,7 @@
 /usr/bin/nl-neigh-list:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/p11-kit:
@@ -397,7 +397,7 @@
 /usr/bin/nl-neightbl-list:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/xz:
@@ -433,7 +433,7 @@
 /usr/bin/nl-qdisc-list:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/nl-route-add:
@@ -451,25 +451,25 @@
 /usr/bin/nl-route-get:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/nl-route-list:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/nl-rule-list:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/nl-tctree-list:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/which:
@@ -481,7 +481,7 @@
 /usr/bin/nl-util-addr:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/cpio:
@@ -643,7 +643,7 @@
 /usr/bin/genl-ctrl-list:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/troff:
@@ -661,7 +661,7 @@
 /usr/bin/idiag-socket-details:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/pre-grohtml:
@@ -1789,7 +1789,7 @@
 /usr/bin/mbimcli:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/cockpit-bridge:
@@ -1867,13 +1867,13 @@
 /usr/bin/gapplication:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/gdbus:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/lsns:
@@ -1885,7 +1885,7 @@
 /usr/bin/gio-querymodules-64:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/fc-pattern:
@@ -1909,7 +1909,7 @@
 /usr/bin/gsettings:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/certutil:
@@ -1957,25 +1957,25 @@
 /usr/bin/fprintd-delete:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/fprintd-enroll:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/fprintd-list:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/fprintd-verify:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/msgattrib:
@@ -2035,7 +2035,7 @@
 /usr/bin/python2.7:
  PIE: yes
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/ntfscat:
@@ -2113,7 +2113,7 @@
 /usr/bin/gdk-pixbuf-query-loaders-64:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/fc-validate:
@@ -2131,7 +2131,7 @@
 /usr/bin/gdk-pixbuf-thumbnailer:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/ntfscluster:
@@ -2143,7 +2143,7 @@
 /usr/bin/csslint-0.6:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/ntfscmp:
@@ -2209,7 +2209,7 @@
 /usr/bin/update-desktop-database:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/localectl:
@@ -2611,7 +2611,7 @@
 /usr/bin/pkaction:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/mcookie:
@@ -2623,7 +2623,7 @@
 /usr/bin/pkcheck:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/mount:
@@ -2647,7 +2647,7 @@
 /usr/bin/pkttyagent:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/namei:
@@ -2983,7 +2983,7 @@
 /usr/bin/reporter-kerneloops:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/systemd-machine-id-setup:
@@ -2995,7 +2995,7 @@
 /usr/bin/reporter-print:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/delv:
@@ -3025,7 +3025,7 @@
 /usr/bin/reporter-ureport:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/dbus-update-activation-environment:
@@ -3121,7 +3121,7 @@
 /usr/bin/mmcli:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/lchfn:
@@ -3229,7 +3229,7 @@
 /usr/bin/abrt-bodhi:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/rpcbind:
@@ -3277,7 +3277,7 @@
 /usr/bin/consolehelper:
  PIE: yes
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/combinedeltarpm:
@@ -3289,7 +3289,7 @@
 /usr/bin/appstream-compose:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/makedeltarpm:
@@ -3307,7 +3307,7 @@
 /usr/bin/appstream-util:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/gpgv:
@@ -3391,7 +3391,7 @@
 /usr/bin/pkmon:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/dumpkeys:
@@ -3457,13 +3457,13 @@
 /usr/bin/abrt-action-analyze-python:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/abrt-action-analyze-xorg:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/cairo-sphinx:
@@ -3511,7 +3511,7 @@
 /usr/bin/nm-online:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/deallocvt:
@@ -3637,13 +3637,13 @@
 /usr/bin/abrt-action-save-package-data:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/abrt-action-analyze-oops:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/abrt-dump-journal-oops:
@@ -3655,25 +3655,25 @@
 /usr/bin/abrt-action-analyze-backtrace:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/abrt-action-analyze-c:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/abrt-action-generate-backtrace:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/abrt-action-generate-core-backtrace:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/abrt-action-trim-files:
@@ -4237,7 +4237,7 @@
 /usr/bin/perl:
  PIE: yes
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/man:
@@ -4255,7 +4255,7 @@
 /usr/bin/perl5.26.2:
  PIE: yes
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/bin/addr2line:
@@ -4369,7 +4369,7 @@
 /usr/sbin/ldconfig:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/sbin/unix_chkpwd:
@@ -4381,7 +4381,7 @@
 /usr/sbin/sln:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/sbin/ipset:
@@ -4513,7 +4513,7 @@
 /usr/sbin/getenforce:
  PIE: yes
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/sbin/getsebool:
@@ -4573,7 +4573,7 @@
 /usr/sbin/selinuxenabled:
  PIE: yes
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/sbin/devlink:
@@ -5557,7 +5557,7 @@
 /usr/sbin/ebtables:
  PIE: yes
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/sbin/ebtables-restore:
@@ -5671,7 +5671,7 @@
 /usr/sbin/consoletype:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/sbin/genhostid:
@@ -5803,7 +5803,7 @@
 /usr/sbin/abrt-configuration:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/sbin/abrt-dbus:
@@ -5833,7 +5833,7 @@
 /usr/sbin/umount.udisks2:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /usr/sbin/gssproxy:
