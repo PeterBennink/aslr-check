@@ -1,0 +1,5179 @@
+/usr/bin/nf-queue:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-addr-add:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/gencat:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-addr-delete:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/getent:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-route-add:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/iconv:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-route-delete:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/locale:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-route-get:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/localedef:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-route-list:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/makedb:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-rule-list:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/pldd:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-tctree-list:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/rpcgen:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-util-addr:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/genl-ctrl-list:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/sprof:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-class-add:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-class-delete:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/getconf:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-class-list:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-classid-lookup:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/bash:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-cls-add:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-cls-delete:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/last:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/nl-cls-list:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/mesg:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/nl-link-list:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-pktloc-lookup:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-qdisc-add:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/wall:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/nl-qdisc-delete:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-qdisc-list:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/p11-kit:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/eqn:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/less:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/info:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/infokey:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/sed:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/tar:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/grep:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/hostname:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/groff:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/dgawk:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/grops:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/gawk:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/grotty:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/pgawk:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/xmlcatalog:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/xmllint:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/gpg-error:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/cpio:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/pic:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/vi:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/xmlwf:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/lua:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/post-grohtml:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/luac:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/pre-grohtml:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/which:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/whiptail:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/cmp:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/preconv:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/diff:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/soelim:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/diff3:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/tbl:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/sdiff:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/troff:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/find:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/oldfind:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/make:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/xargs:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/xz:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/tabs:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/sqlite3:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/file:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-list-caches:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/tic:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/idiag-socket-details:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nf-ct-add:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/xzdec:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nf-ct-list:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nf-exp-add:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nf-monitor:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/toe:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nf-exp-delete:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nf-exp-list:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nf-log:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-addr-list:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-neigh-add:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/tput:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-fib-lookup:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-neigh-delete:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-link-enslave:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-list-sockets:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/tset:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-link-ifindex2name:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-monitor:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/testgdbm:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-link-name2ifindex:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-neigh-list:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-link-release:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-link-set:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-neightbl-list:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl-link-stats:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/idn:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/[:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/link:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/who:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/ln:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/whoami:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/mv:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/gzip:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/lessecho:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nice:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/lesskey:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nl:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nohup:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/teamnl:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/nproc:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/chacl:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/numfmt:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/getfacl:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/od:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/setfacl:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/paste:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/pathchk:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/db_archive:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/logname:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/free:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/db_checkpoint:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/pinky:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/db_deadlock:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/pr:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/pmap:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/db_dump:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/printenv:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/db_dump185:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/ls:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/yes:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/db_hotbackup:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/printf:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/db_load:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/md5sum:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/ps:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/db_log_verify:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/ptx:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/pwdx:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/db_printlog:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/pwd:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/top:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/db_recover:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/mkdir:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/w:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/db_replicate:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/readlink:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/db_stat:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/realpath:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/db_tuner:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/rm:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/ar:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/db_upgrade:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/rmdir:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/db_verify:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/runcon:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/mkfifo:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/as:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/pinentry-curses:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/seq:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/dwp:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/sha1sum:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/geoiplookup:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/mknod:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nm:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/geoiplookup6:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/sha224sum:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/geoipupdate:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/sha256sum:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/sha384sum:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/clear:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/sha512sum:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/infocmp:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/shred:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/shuf:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/size:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/sleep:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/trust:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/sort:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/mktemp:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/curl:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/split:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/arch:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/stat:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/rpm:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/base64:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/stdbuf:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/basename:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/cat:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/stty:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/chcon:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/sum:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/gpg2:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/chgrp:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/sync:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/chmod:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/tac:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/cal:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/chown:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/tail:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/cksum:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/tee:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/chrt:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/comm:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/cp:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/test:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/csplit:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/cut:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/timeout:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/date:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/python2.7:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/dd:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/chage:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/df:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/gpasswd:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/dir:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/touch:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/dircolors:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/tr:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/col:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/dirname:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/lastlog:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/du:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/true:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/echo:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/newgrp:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/env:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/truncate:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/expand:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/tsort:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/expr:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/tty:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/ipcs:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/factor:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/uname:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/false:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/fmt:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/unexpand:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/fold:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/uniq:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/kill:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/groups:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/unlink:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/head:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/users:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/hostid:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/id:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/vdir:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/look:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/install:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/wc:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/lsns:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/join:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/gsettings:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/gio:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/gapplication:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/gdbus:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/rpmdb:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/gio-querymodules-64:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/ld.gold:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/uuidgen:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/glib-compile-schemas:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/fipscheck:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/wdctl:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/update-mime-database:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/csslint-0.6:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/gpg-agent:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/pwmake:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/gpg-connect-agent:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/pwscore:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/pgrep:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/gpgconf:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/pkill:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/gpgparsemail:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/skill:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/gpgsplit:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/slabtop:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/gpgv2:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/snice:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/watchgnupg:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/tload:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/lchfn:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/uptime:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/lchsh:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/vmstat:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/colcrt:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/watch:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/colrm:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/envsubst:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/column:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/gettext:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/dmesg:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/eject:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/msgattrib:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/fallocate:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/msgcat:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/findmnt:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/msgcmp:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/flock:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/msgcomm:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/getopt:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/msgconv:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/hexdump:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/msgen:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/ionice:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/msgexec:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/ipcmk:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/msgfilter:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/ipcrm:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/msgfmt:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/isosize:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/msggrep:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/msginit:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/logger:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/msgmerge:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/login:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/msgunfmt:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/lsblk:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/msguniq:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/lscpu:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/ngettext:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/rpm2cpio:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/kmod:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/recode-sr-latin:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/lsipc:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/xgettext:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/systemd-ask-password:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/dbus-binding-tool:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/lslocks:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/pkg-config:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/lslogins:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/mcookie:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/more:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/ping:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/mount:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/openssl:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/rpmkeys:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/chvt:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/mountpoint:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/certutil:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/namei:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/cmsutil:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nsenter:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/crlutil:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/prlimit:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/modutil:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/raw:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/man:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/pk12util:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/rename:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/signtool:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/renice:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/signver:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/rev:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/tmon:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/ssltap:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/script:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/aserver:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/scriptreplay:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/addr2line:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/setarch:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/c++filt:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/setpriv:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/elfedit:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/setsid:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/gprof:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/setterm:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/ld.bfd:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/su:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/scp:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/objcopy:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/tailf:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/objdump:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/taskset:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/ranlib:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/ul:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/sftp:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/readelf:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/umount:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/strings:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/unshare:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/strip:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/utmpdump:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/fipshmac:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/whereis:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/write:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/secon:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/ssh-keygen:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/ndptool:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/teamd:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/teamdctl:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/lsscsi:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/bootctl:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/busctl:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/coredumpctl:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/hostnamectl:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/journalctl:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/localectl:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/loginctl:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/machinectl:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/systemctl:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/systemd-analyze:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/systemd-cat:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/grub2-mkrelpath:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/systemd-cgls:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/grub2-script-check:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/systemd-cgtop:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/hdsploader:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/ssh:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/mixartloader:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/systemd-delta:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/usx2yloader:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/lz4:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/systemd-detect-virt:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/vxloader:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/lz4c:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/systemd-escape:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/plymouth:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/wget:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/systemd-firstboot:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/dumpkeys:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/a2p:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/systemd-hwdb:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/kbd_mode:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/systemd-inhibit:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/loadkeys:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/grub2-mkrescue:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/perl:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/systemd-machine-id-setup:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/setfont:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/systemd-notify:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/systemd-nspawn:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/systemd-path:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/psfxtable:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/systemd-run:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/grub2-mknetdir:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/ab:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/systemd-stdio-bridge:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/deallocvt:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/systemd-tmpfiles:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/grub2-mkimage:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/auvirt:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/systemd-tty-ask-password-agent:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/resizecons:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/timedatectl:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/setkeycodes:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/udevadm:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/grub2-mkstandalone:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/php:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/dbus-cleanup-sockets:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/setleds:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/dbus-daemon:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/fgconsole:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/dig:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/dbus-monitor:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/setmetamode:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/dbus-send:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/getkeycodes:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/host:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/dbus-uuidgen:
+ Position Independent Executable: yes
+ Stack protected: no, not found!
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/setvtrgb:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/pkaction:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/showconsolefont:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/pkcheck:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/showkey:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/pkexec:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/vlock:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/pkttyagent:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/grub2-syslinux2cfg:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/pkla-admin-identities:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/pkla-check-authorization:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/tracepath:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/tracepath6:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/nmtui:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/ipcalc:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/usleep:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/grub2-file:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nm-online:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/nmcli:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/kbdinfo:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/aulast:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/aulastlog:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/ausyscall:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/crontab:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/kbdrate:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/grub2-editenv:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/grub2-menulst2cfg:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/grub2-mkpasswd-pbkdf2:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/loadunimap:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/grub2-fstest:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/mapscrn:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/grub2-glue-efi:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/openvt:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/grub2-mkfont:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/grub2-mklayout:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/chronyc:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/mysql_tzinfo_to_sql:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/mysql_upgrade:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/catman:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/lexgrog:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/mandb:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/manpath:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/whatis:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/innochecksum:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/centrino-decode:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/cpupower:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/my_print_defaults:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/powernow-k8-decode:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/turbostat:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/x86_energy_perf_policy:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/perror:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/mysqltest:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/ssh-add:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/replace:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/zipcmp:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/resolve_stack_dump:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/ssh-keyscan:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/resolveip:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/passwd:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/zipmerge:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/ziptorrent:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/chattr:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/lsattr:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/php-cgi:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/nslookup:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/nsupdate:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/chmem:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/lsmem:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/myisam_ftdump:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/dbus-run-session:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/myisampack:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/dbus-test-tool:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/dbus-update-activation-environment:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/myisamlog:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/grub2-render-label:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/perl5.16.3:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/htdbm:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/htdigest:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/htpasswd:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/httxt2dbm:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/logresolve:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/mysql:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/mysql_config_editor:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/mysql_plugin:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/mysql_waitpid:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/mysqladmin:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/mysqlbinlog:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/mysqlcheck:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/mysqldump:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/mysqlimport:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/mysqlshow:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/mysqlslap:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/bin/netstat:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/bin/myisamchk:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/selabel_partial_match:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/zdump:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/lid:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/zic:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/ldconfig:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/lnewusers:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/sln:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/lpasswd:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/rtmon:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/ss:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/iconvconfig:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/iconvconfig.x86_64:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/tc:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/luseradd:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/sefcontext_compile:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/ipset:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/fsck:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/install-info:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/mkfs:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/chkconfig:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/selinuxconlist:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/alternatives:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/selinuxdefcon:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/vipw:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/capsh:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/cracklib-check:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/getcap:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/getpcaps:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/cracklib-packer:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/setcap:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/selinuxenabled:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/genl-ctrl-list:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/selinuxexeccon:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/nl-class-add:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/setenforce:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/nl-class-delete:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/biosdecode:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/nl-class-list:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/dmidecode:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/nl-classid-lookup:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/cracklib-unpacker:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/nl-cls-add:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/ownership:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/nl-cls-delete:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/nl-cls-list:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/vpddecode:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/nl-link-list:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/chroot:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/nl-pktloc-lookup:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/nl-qdisc-add:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/chpasswd:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/sshd:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/nl-qdisc-delete:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/arp:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/nl-qdisc-list:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/rndc:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/sasldblistusers2:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/saslpasswd2:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/killall5:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/faillock:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/mkhomedir_helper:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/ethtool:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/pam_console_apply:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/pam_tally2:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/grpck:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/grpconv:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/grpunconv:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/xtables-multi:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/pam_timestamp_check:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/arpd:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/pwhistory_helper:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/bridge:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/luserdel:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/unix_chkpwd:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/devlink:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/sysctl:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/genl:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/grubby:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/ifstat:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/lusermod:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/ip:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/lnstat:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/logrotate:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/nstat:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/lchage:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/rtacct:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/lgroupadd:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/avcstat:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/lgroupdel:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/getenforce:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/lgroupmod:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/getsebool:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/newusers:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/matchpathcon:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/pwck:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/addpart:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/selabel_digest:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/pwconv:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/selabel_lookup:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/lvm:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/selabel_lookup_best_match:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/pwunconv:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/selinux_restorecon:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/agetty:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/blkdiscard:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/blkid:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/blockdev:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/cfdisk:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/chcpu:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/ctrlaltdel:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/delpart:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/fdformat:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/fdisk:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/findfs:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/fsck.cramfs:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/fsck.minix:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/fsfreeze:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/fstrim:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/hwclock:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/ldattach:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/losetup:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/mkfs.cramfs:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/mkfs.minix:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/mkswap:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/nologin:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/partx:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/pivot_root:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/readprofile:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/resizepart:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/rtcwake:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/runuser:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/sfdisk:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/sulogin:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/swaplabel:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/swapoff:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/swapon:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/switch_root:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/wipefs:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/zramctl:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/load_policy:
+ Position Independent Executable: yes
+ Stack protected: no, not found!
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/semodule:
+ Position Independent Executable: yes
+ Stack protected: no, not found!
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/sestatus:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/setfiles:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/setsebool:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/pdata_tools:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/htcacheclean:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/hardlink:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/kpartx:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/dmfilemapd:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/dmsetup:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/arping:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/clockdiff:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/ifenslave:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/rdisc:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/consoletype:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/genhostid:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/netreport:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/ppp-watch:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/usernetctl:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/eapol_test:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/wpa_cli:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/wpa_passphrase:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/wpa_supplicant:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/NetworkManager:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/anacron:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/crond:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/grub2-ofpathname:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/grub2-sparc64-setup:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/grub2-bios-setup:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/grub2-install:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/grub2-probe:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/grub2-rpm-sort:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/dmeventd:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/dhclient:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/ebtables:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: unknown, no protectable libc functions used
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/ebtables-restore:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/fxload:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/plymouthd:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/kdump:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/kexec:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/makedumpfile:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/vmcore-dmesg:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/lvmetad:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/lvmpolld:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/audispd:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/auditctl:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/auditd:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/aureport:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/ausearch:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/postalias:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/postcat:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/postconf:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/postdrop:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/postfix:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/postkick:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/postlock:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/postlog:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/postmap:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/postmulti:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/postqueue:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/postsuper:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/sendmail.postfix:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/smtp-sink:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/smtp-source:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/mklost+found:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/fcgistarter:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/irqbalance:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/fsck.ext3:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/chronyd:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/genrandom:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/intel-microcode2ucode:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/fsck.ext4:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/mkfs.ext3:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/rsyslogd:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/e2fsck:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/biosdevname:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/fsck.ext2:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/parted:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/e2label:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/partprobe:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/tune2fs:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/iprconfig:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/mkfs.ext4:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/grub2-macbless:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/iprdump:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/mke2fs:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/iprinit:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/mkfs.ext2:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/iprupdate:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/rotatelogs:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/accessdb:
+ Position Independent Executable: no, normal executable!
+ Stack protected: no, not found!
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/httpd:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/xfs_quota:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/xfs_repair:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/visudo:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/ifconfig:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/btrfs:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/xfs_rtcp:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/btrfs-convert:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/badblocks:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/btrfs-debug-tree:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/debugfs:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/btrfs-find-root:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/ether-wake:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/btrfs-image:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/dumpe2fs:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/btrfs-map-logical:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/e2freefrag:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/btrfs-select-super:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/e2image:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/btrfs-zero-log:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/ipmaddr:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/iptunnel:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/btrfstune:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/mii-diag:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/mii-tool:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/mkfs.btrfs:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/nameif:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/plipconfig:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/mkfs.xfs:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/route:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/slattach:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/mysqld:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/xfs_copy:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/xfs_db:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/e2undo:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/xfs_estimate:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/mysqld-debug:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: no, only unprotected functions found!
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/arpaname:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/xfs_fsr:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/ddns-confgen:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/xfs_growfs:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/dnssec-dsfromkey:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/xfs_io:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/e4defrag:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/xfs_logprint:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/filefrag:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/xfs_mdrestore:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/logsave:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/dnssec-importkey:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/dnssec-keyfromlabel:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/resize2fs:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/dnssec-keygen:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/dnssec-revoke:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/dnssec-settime:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/dnssec-signzone:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/dnssec-verify:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/isc-hmac-fixup:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/named-checkconf:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/named-checkzone:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/named-journalprint:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/nsec3hash:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/rndc-confgen:
+ Position Independent Executable: no, normal executable!
+ Stack protected: yes
+ Fortify Source functions: yes
+ Read-only relocations: yes
+ Immediate binding: no, not found!
+/usr/sbin/lwresd:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+/usr/sbin/named:
+ Position Independent Executable: yes
+ Stack protected: yes
+ Fortify Source functions: yes (some protected functions found)
+ Read-only relocations: yes
+ Immediate binding: yes
+randomize_va_space: 2
