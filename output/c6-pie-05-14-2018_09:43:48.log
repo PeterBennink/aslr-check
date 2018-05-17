@@ -121,7 +121,7 @@
 /sbin/insmod.static:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: no
  Immediate binding: no
 /sbin/lvmetad:
@@ -289,7 +289,7 @@
 /sbin/busybox:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: no
  Immediate binding: no
 /sbin/mkfs.ext2:
@@ -553,7 +553,7 @@
 /sbin/grub:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: no
  Immediate binding: no
 /sbin/dumpe2fs:
@@ -583,7 +583,7 @@
 /sbin/ldconfig:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: no
  Immediate binding: no
 /sbin/getkey:
@@ -763,7 +763,7 @@
 /sbin/sln:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: no
  Immediate binding: no
 /sbin/modinfo:
@@ -1453,7 +1453,7 @@
 /usr/sbin/build-locale-archive:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: no
  Immediate binding: no
 /usr/sbin/groupdel:
@@ -1531,7 +1531,7 @@
 /usr/sbin/selinuxenabled:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: no
  Immediate binding: no
 /usr/sbin/pwunconv:
@@ -1699,7 +1699,7 @@
 /usr/sbin/getenforce:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: no
  Immediate binding: no
 /usr/sbin/semodule:
@@ -1723,7 +1723,7 @@
 /usr/sbin/glibc_post_upgrade.x86_64:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: no
  Immediate binding: no
 /usr/sbin/vipw:
@@ -1981,7 +1981,7 @@
 /usr/bin/python:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: no
  Immediate binding: no
 /usr/bin/pcretest:
@@ -2227,7 +2227,7 @@
 /usr/bin/mbchk:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: no
  Immediate binding: no
 /usr/bin/mapscrn:
@@ -2269,7 +2269,7 @@
 /usr/bin/gio-querymodules-64:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: no
  Immediate binding: no
 /usr/bin/dir:
@@ -2869,7 +2869,7 @@
 /usr/bin/python2.6:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: no
  Immediate binding: no
 /usr/bin/gpgconf:
@@ -2995,7 +2995,7 @@
 /usr/bin/gdbus:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: no
  Immediate binding: no
 /usr/bin/newgrp:
@@ -3013,7 +3013,7 @@
 /usr/bin/clear:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: no
  Immediate binding: no
 /usr/bin/killall:
@@ -3433,7 +3433,7 @@
 /usr/bin/colrm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: no
  Immediate binding: no
 /usr/bin/checkmodule:
@@ -3469,7 +3469,7 @@
 /usr/bin/perl:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: no
  Immediate binding: no
 /usr/bin/yes:
@@ -3535,7 +3535,7 @@
 /usr/bin/perl5.10.1:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: no
  Immediate binding: no
 /usr/bin/db_deadlock:

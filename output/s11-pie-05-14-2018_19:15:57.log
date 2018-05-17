@@ -7,7 +7,7 @@
 /usr/bin/python2.6:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/killall:
@@ -49,7 +49,7 @@
 /usr/bin/pbmlife:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/ft1string:
@@ -79,7 +79,7 @@
 /usr/bin/gnome-dictionary:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/xcmsdb:
@@ -91,7 +91,7 @@
 /usr/bin/pamtotga:
  PIE: no
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/last:
@@ -163,7 +163,7 @@
 /usr/bin/pgmmorphconv:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/mdiff:
@@ -229,7 +229,7 @@
 /usr/bin/gvfs-open:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/sgp_dd:
@@ -277,7 +277,7 @@
 /usr/bin/ppmcolors:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/db_recover:
@@ -289,7 +289,7 @@
 /usr/bin/gnome-network-properties:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/ldbadd:
@@ -301,7 +301,7 @@
 /usr/bin/gvfs-ls:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/eu-ar:
@@ -343,7 +343,7 @@
 /usr/bin/pbmtoplot:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/peekfd:
@@ -373,13 +373,13 @@
 /usr/bin/pnmsmooth:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/pnmnlfilt:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/dfblayer:
@@ -421,7 +421,7 @@
 /usr/bin/vmmouse_detect:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/intel_upload_blit_large_gtt:
@@ -433,7 +433,7 @@
 /usr/bin/pnmcut:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/gpk-application:
@@ -505,7 +505,7 @@
 /usr/bin/pnmsplit:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/glxgears:
@@ -607,7 +607,7 @@
 /usr/bin/pamfunc:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/pstopnm:
@@ -619,7 +619,7 @@
 /usr/bin/ppmchange:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/man:
@@ -655,7 +655,7 @@
 /usr/bin/pbmto4425:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/fribidi:
@@ -691,13 +691,13 @@
 /usr/bin/pamditherbw:
  PIE: no
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/ppmtoyuv:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/recode:
@@ -709,7 +709,7 @@
 /usr/bin/metacity-window-demo:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/mouse-test:
@@ -727,7 +727,7 @@
 /usr/bin/pbmpscale:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/ftdiff:
@@ -877,7 +877,7 @@
 /usr/bin/ppmntsc:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/xtermset:
@@ -961,7 +961,7 @@
 /usr/bin/ppmrough:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/gpgparsemail:
@@ -997,7 +997,7 @@
 /usr/bin/zypp-NameReqPrv:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/amidi:
@@ -1027,7 +1027,7 @@
 /usr/bin/pnmcomp:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/gpg-agent:
@@ -1057,13 +1057,13 @@
 /usr/bin/ppmmake:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/atktopbm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/rletopnm:
@@ -1075,7 +1075,7 @@
 /usr/bin/gnomesu:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/cal:
@@ -1141,7 +1141,7 @@
 /usr/bin/ppmtobmp:
  PIE: no
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/ft1error:
@@ -1207,7 +1207,7 @@
 /usr/bin/pamsharpness:
  PIE: no
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/jpegicc:
@@ -1219,7 +1219,7 @@
 /usr/bin/pbmtopgm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/xdriinfo:
@@ -1261,7 +1261,7 @@
 /usr/bin/wnck-urgency-monitor:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/gemtopnm:
@@ -1273,7 +1273,7 @@
 /usr/bin/pgmnoise:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/smbclient:
@@ -1285,7 +1285,7 @@
 /usr/bin/pnmgamma:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/logname:
@@ -1339,13 +1339,13 @@
 /usr/bin/pgmabel:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/gnome-keyring:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/gnome-terminal:
@@ -1411,7 +1411,7 @@
 /usr/bin/gsf-office-thumbnailer:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/dnssec-signer:
@@ -1441,7 +1441,7 @@
 /usr/bin/ppmglobe:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/pactl:
@@ -1495,7 +1495,7 @@
 /usr/bin/ppmtomitsu:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/aplaymidi:
@@ -1573,7 +1573,7 @@
 /usr/bin/gnome-at-properties:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/formail:
@@ -1747,7 +1747,7 @@
 /usr/bin/gnome-default-applications-properties:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/fstopgm:
@@ -1801,7 +1801,7 @@
 /usr/bin/gucharmap:
  PIE: no
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/openipmicmd:
@@ -1813,25 +1813,25 @@
 /usr/bin/pbmtoybm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/gnome-audio-profiles-properties:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/pamstereogram:
  PIE: no
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/pnmtopnm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/ppmtoilbm:
@@ -1867,7 +1867,7 @@
 /usr/bin/pc1toppm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/chage:
@@ -1909,7 +1909,7 @@
 /usr/bin/pbmtomatrixorbital:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/mdatopbm:
@@ -1945,13 +1945,13 @@
 /usr/bin/pnmrotate:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/pbmtog3:
  PIE: no
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/tartest:
@@ -1987,7 +1987,7 @@
 /usr/bin/gconf-editor:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/lsscsi:
@@ -2017,13 +2017,13 @@
 /usr/bin/pbmtowbmp:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/gnome-volume-control-applet:
  PIE: no
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/eu-size:
@@ -2161,7 +2161,7 @@
 /usr/bin/icontopbm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/pbmtoatk:
@@ -2203,7 +2203,7 @@
 /usr/bin/tifftopnm:
  PIE: no
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/ddate:
@@ -2239,7 +2239,7 @@
 /usr/bin/pango-querymodules:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/mkdgiff:
@@ -2299,7 +2299,7 @@
 /usr/bin/canberra-gtk-play:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/star:
@@ -2311,13 +2311,13 @@
 /usr/bin/gnome-screensaver-command:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/pgmbentley:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/Xvnc:
@@ -2341,7 +2341,7 @@
 /usr/bin/pnmscale:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/pnmtops:
@@ -2407,7 +2407,7 @@
 /usr/bin/ppm3d:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/pbmtoibm23xx:
@@ -2419,13 +2419,13 @@
 /usr/bin/cmuwmtopbm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/evince-thumbnailer:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/pnmtopclxl:
@@ -2461,13 +2461,13 @@
 /usr/bin/ruby:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/jpeg2ktopam:
  PIE: no
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/gettext:
@@ -2611,7 +2611,7 @@
 /usr/bin/gnome-typing-monitor:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/411toppm:
@@ -2683,13 +2683,13 @@
 /usr/bin/gst-discoverer-0.10:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/tclsh8.5:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/shcomp:
@@ -2707,7 +2707,7 @@
 /usr/bin/wish8.5:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/sg_sanitize:
@@ -2755,13 +2755,13 @@
 /usr/bin/pnmpaste:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/gstreamer-properties:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/xxd:
@@ -2827,7 +2827,7 @@
 /usr/bin/gnome-session-save:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/btrecord:
@@ -2851,13 +2851,13 @@
 /usr/bin/pbmtomgr:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/gnome-session-properties:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/intel_stepping:
@@ -2881,7 +2881,7 @@
 /usr/bin/pcxtoppm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/addftinfo:
@@ -2905,7 +2905,7 @@
 /usr/bin/colrm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/rasttopnm:
@@ -2923,7 +2923,7 @@
 /usr/bin/pgmtopgm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/devdump:
@@ -3001,7 +3001,7 @@
 /usr/bin/pbmmask:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/tailf:
@@ -3103,7 +3103,7 @@
 /usr/bin/pnmcat:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/ypchsh:
@@ -3127,7 +3127,7 @@
 /usr/bin/gvfs-monitor-file:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/test-speech:
@@ -3151,7 +3151,7 @@
 /usr/bin/evince-previewer:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/x86info:
@@ -3235,13 +3235,13 @@
 /usr/bin/pango-querymodules-64:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/pamdeinterlace:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/smbcquotas:
@@ -3271,7 +3271,7 @@
 /usr/bin/clear:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/gpg2:
@@ -3325,7 +3325,7 @@
 /usr/bin/pamsummcol:
  PIE: no
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/dircolors:
@@ -3355,7 +3355,7 @@
 /usr/bin/word-list-compress:
  PIE: no
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/notify-send:
@@ -3373,7 +3373,7 @@
 /usr/bin/ppmtoneo:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/cpupower:
@@ -3463,7 +3463,7 @@
 /usr/bin/pnmtosir:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/xcompmgr:
@@ -3475,7 +3475,7 @@
 /usr/bin/bioradtopgm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/blkiomon:
@@ -3499,7 +3499,7 @@
 /usr/bin/gkbd-indicator-plugins-capplet:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/mesg:
@@ -3583,7 +3583,7 @@
 /usr/bin/pamstretch:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/lp:
@@ -3685,7 +3685,7 @@
 /usr/bin/pnmcrop:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/cut:
@@ -3697,7 +3697,7 @@
 /usr/bin/guile:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/openssl:
@@ -3721,13 +3721,13 @@
 /usr/bin/gdk-pixbuf-query-loaders:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/zeisstopnm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/hal-get-property:
@@ -3739,7 +3739,7 @@
 /usr/bin/pi3topbm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/aulastlog:
@@ -3835,7 +3835,7 @@
 /usr/bin/hdifftopam:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/kbxutil:
@@ -3865,7 +3865,7 @@
 /usr/bin/gsf:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/fmt:
@@ -4003,7 +4003,7 @@
 /usr/bin/ppmdim:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/xkbwatch:
@@ -4075,7 +4075,7 @@
 /usr/bin/ppmtopuzz:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/sg_reset:
@@ -4099,7 +4099,7 @@
 /usr/bin/activation-client:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/gnome-about-me:
@@ -4147,7 +4147,7 @@
 /usr/bin/ppmdist:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/stdbuf:
@@ -4177,7 +4177,7 @@
 /usr/bin/beforelight:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/expr:
@@ -4195,13 +4195,13 @@
 /usr/bin/macptopbm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/gnome-keybinding-properties:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/sg_start:
@@ -4231,19 +4231,19 @@
 /usr/bin/pamenlarge:
  PIE: no
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/pgmtoppm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/pnmconvol:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/mkzftree:
@@ -4255,7 +4255,7 @@
 /usr/bin/gtk-query-immodules-2.0:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/lpoptions:
@@ -4273,7 +4273,7 @@
 /usr/bin/metacity-theme-viewer:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/zip:
@@ -4285,7 +4285,7 @@
 /usr/bin/rawtopgm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/dvd+rw-format:
@@ -4297,7 +4297,7 @@
 /usr/bin/trigger-panel-run-dialog:
  PIE: no
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/atobm:
@@ -4309,7 +4309,7 @@
 /usr/bin/ybmtopbm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/pax:
@@ -4321,13 +4321,13 @@
 /usr/bin/gnome-sound-recorder:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/pnmtoxwd:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/setfattr:
@@ -4345,7 +4345,7 @@
 /usr/bin/pnmpad:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/acpihelp:
@@ -4375,13 +4375,13 @@
 /usr/bin/gvfs-cat:
  PIE: no
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/brushtopbm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/eyuvtoppm:
@@ -4489,7 +4489,7 @@
 /usr/bin/pgmenhance:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/inputattach:
@@ -4519,7 +4519,7 @@
 /usr/bin/ppmtoppm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/smbpasswd:
@@ -4597,7 +4597,7 @@
 /usr/bin/pgmramp:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/rpmgraph:
@@ -4693,7 +4693,7 @@
 /usr/bin/wnckprop:
  PIE: no
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/chooser:
@@ -4711,7 +4711,7 @@
 /usr/bin/c2070:
  PIE: no
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/shar:
@@ -4753,7 +4753,7 @@
 /usr/bin/pnmnorm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/xprehashprinterlist:
@@ -4777,7 +4777,7 @@
 /usr/bin/ppmpat:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/icewmbg:
@@ -4801,13 +4801,13 @@
 /usr/bin/pbmtocmuwm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/neotoppm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/whereis:
@@ -4921,7 +4921,7 @@
 /usr/bin/ppmbrighten:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/Xnest:
@@ -5065,7 +5065,7 @@
 /usr/bin/ppmflash:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/xpmtoppm:
@@ -5077,7 +5077,7 @@
 /usr/bin/pgmtopbm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/fc-cat32:
@@ -5107,7 +5107,7 @@
 /usr/bin/gvfs-rm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/env:
@@ -5125,7 +5125,7 @@
 /usr/bin/gnome-control-center:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/btrfs-map-logical:
@@ -5167,13 +5167,13 @@
 /usr/bin/gvfs-rename:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/pnminvert:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/gvfs-mount:
@@ -5191,7 +5191,7 @@
 /usr/bin/spctoppm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/profileeditor:
@@ -5251,7 +5251,7 @@
 /usr/bin/gnome-font-viewer:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/pgpewrap:
@@ -5293,7 +5293,7 @@
 /usr/bin/pamoil:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/aseqnet:
@@ -5323,13 +5323,13 @@
 /usr/bin/pnmshear:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/pampop9:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/w:
@@ -5377,7 +5377,7 @@
 /usr/bin/ppmshift:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/appres:
@@ -5419,7 +5419,7 @@
 /usr/bin/application-browser:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/rendercheck:
@@ -5443,13 +5443,13 @@
 /usr/bin/pamcut:
  PIE: no
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/pbmclean:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/soelim:
@@ -5485,7 +5485,7 @@
 /usr/bin/gvfs-trash:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/ftmemchk:
@@ -5497,7 +5497,7 @@
 /usr/bin/gvfs-tree:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/cyrus_sasl_sample_client:
@@ -5509,13 +5509,13 @@
 /usr/bin/gnome-mouse-properties:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/gnome-display-properties:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/combinedeltarpm:
@@ -5557,7 +5557,7 @@
 /usr/bin/ppmrelief:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/scdaemon:
@@ -5569,7 +5569,7 @@
 /usr/bin/xeyes:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/ldapurl:
@@ -5677,7 +5677,7 @@
 /usr/bin/espeak-synthesis-driver:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/gpg-connect-agent:
@@ -5701,7 +5701,7 @@
 /usr/bin/pammasksharpen:
  PIE: no
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/lpr:
@@ -5737,7 +5737,7 @@
 /usr/bin/gnome-thumbnail-font:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/intel_backlight:
@@ -5767,7 +5767,7 @@
 /usr/bin/pnmalias:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/gpasswd:
@@ -5809,7 +5809,7 @@
 /usr/bin/gnome-keyboard-properties:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/pjtoppm:
@@ -5857,19 +5857,19 @@
 /usr/bin/oclock:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/pbmupc:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/pbmtoptx:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/palmtopnm:
@@ -5911,7 +5911,7 @@
 /usr/bin/ppmtoacad:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/lpstat:
@@ -5953,7 +5953,7 @@
 /usr/bin/rgb3toppm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/eu-strip:
@@ -5995,7 +5995,7 @@
 /usr/bin/update-desktop-database:
  PIE: no
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/test-moniker:
@@ -6019,7 +6019,7 @@
 /usr/bin/pbmmake:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/gpk-service-pack:
@@ -6049,7 +6049,7 @@
 /usr/bin/gvfs-monitor-dir:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/rename:
@@ -6169,7 +6169,7 @@
 /usr/bin/rawtoppm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/sg_write_same:
@@ -6217,7 +6217,7 @@
 /usr/bin/lispmtopgm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/min12xxw:
@@ -6259,7 +6259,7 @@
 /usr/bin/sputoppm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/fc-match32:
@@ -6313,7 +6313,7 @@
 /usr/bin/gvfs-info:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/sfcbinst2mof:
@@ -6331,7 +6331,7 @@
 /usr/bin/pamedge:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/head:
@@ -6355,7 +6355,7 @@
 /usr/bin/pbmtopi3:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/rpm2cpio:
@@ -6373,7 +6373,7 @@
 /usr/bin/psidtopgm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/hpijs:
@@ -6415,7 +6415,7 @@
 /usr/bin/gdm-screenshot:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/intel_dpio_write:
@@ -6451,7 +6451,7 @@
 /usr/bin/pi1toppm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/[:
@@ -6475,7 +6475,7 @@
 /usr/bin/asciitopgm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/ausyscall:
@@ -6565,7 +6565,7 @@
 /usr/bin/cupstestdsc:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/ldbsearch:
@@ -6595,7 +6595,7 @@
 /usr/bin/gvfs-mkdir:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/xvminitoppm:
@@ -6643,7 +6643,7 @@
 /usr/bin/pamendian:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/twm:
@@ -6685,7 +6685,7 @@
 /usr/bin/gdk-pixbuf-query-loaders-64:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/sg_map:
@@ -6709,7 +6709,7 @@
 /usr/bin/pamsharpmap:
  PIE: no
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/unmunch:
@@ -6721,7 +6721,7 @@
 /usr/bin/ppmtopi1:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/install:
@@ -6817,13 +6817,13 @@
 /usr/bin/pbmreduce:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/gvfs-set-attribute:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/xterm:
@@ -6841,7 +6841,7 @@
 /usr/bin/pgmcrater:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/fc-cat:
@@ -6943,7 +6943,7 @@
 /usr/bin/pnmpsnr:
  PIE: no
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/ppmtoleaf:
@@ -6991,13 +6991,13 @@
 /usr/bin/disable-paste:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/ppmcolormask:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/pabrowse:
@@ -7057,7 +7057,7 @@
 /usr/bin/dfbmaster:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/xvidtune:
@@ -7087,7 +7087,7 @@
 /usr/bin/pnmremap:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/gnome-nettool:
@@ -7117,7 +7117,7 @@
 /usr/bin/pnmtotiff:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/xditview:
@@ -7147,13 +7147,13 @@
 /usr/bin/ppmmix:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/pamtohdiff:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/rsh:
@@ -7255,7 +7255,7 @@
 /usr/bin/ppmwheel:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/ftgrid:
@@ -7273,7 +7273,7 @@
 /usr/bin/ppmtogif:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/smbcontrol:
@@ -7309,7 +7309,7 @@
 /usr/bin/pamlookup:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/vncviewer:
@@ -7339,7 +7339,7 @@
 /usr/bin/pamtopnm:
  PIE: no
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/metamail:
@@ -7351,7 +7351,7 @@
 /usr/bin/ppmtoeyuv:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/isodebug:
@@ -7441,13 +7441,13 @@
 /usr/bin/pbmtogem:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/pnmdepth:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/size:
@@ -7555,7 +7555,7 @@
 /usr/bin/pnmscalefixed:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/sha256sum:
@@ -7627,7 +7627,7 @@
 /usr/bin/gtk-query-immodules-2.0-64:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/modetest:
@@ -7663,7 +7663,7 @@
 /usr/bin/pamflip:
  PIE: no
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/ldbdel:
@@ -7675,7 +7675,7 @@
 /usr/bin/ppmtopcx:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/db_archive:
@@ -7765,13 +7765,13 @@
 /usr/bin/ppmtv:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/wbmptopbm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/pdftoabw:
@@ -7861,7 +7861,7 @@
 /usr/bin/pamdice:
  PIE: no
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/tdbrestore:
@@ -7879,7 +7879,7 @@
 /usr/bin/pnmtile:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/ftstring:
@@ -7963,13 +7963,13 @@
 /usr/bin/pnmtosgi:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/ppmtopict:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/sg_prevent:
@@ -8011,13 +8011,13 @@
 /usr/bin/ppmtopgm:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/panel-test-applets:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/xpxthelloworld:
@@ -8041,7 +8041,7 @@
 /usr/bin/pbmtoascii:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/write:
@@ -8101,7 +8101,7 @@
 /usr/bin/bonobo-browser:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/ft1strtto:
@@ -8125,7 +8125,7 @@
 /usr/bin/echo-client-2:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/chroot:
@@ -8263,7 +8263,7 @@
 /usr/bin/gnome-window-properties:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/yes:
@@ -8305,7 +8305,7 @@
 /usr/bin/metacity-message:
  PIE: no
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/chfn:
@@ -8317,7 +8317,7 @@
 /usr/bin/ppmforge:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/gnomevfs-monitor:
@@ -8647,7 +8647,7 @@
 /bin/sash:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /bin/showkey:
@@ -9079,7 +9079,7 @@
 /usr/sbin/zypp-refresh-wrapper:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/sbin/rtcwake:
@@ -9181,7 +9181,7 @@
 /usr/sbin/zypp-refresh:
  PIE: no
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/sbin/arpaname:
@@ -9223,13 +9223,13 @@
 /usr/sbin/sendmail:
  PIE: yes
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/sbin/postsuper:
  PIE: yes
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/sbin/quotastats:
@@ -9313,7 +9313,7 @@
 /usr/sbin/accept:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/sbin/thin_dump:
@@ -9421,7 +9421,7 @@
 /usr/sbin/postlock:
  PIE: yes
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/sbin/swap-offset:
@@ -9481,7 +9481,7 @@
 /usr/sbin/bonobo-activation-sysconf:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/sbin/vpddecode:
@@ -9583,7 +9583,7 @@
 /usr/sbin/postkick:
  PIE: yes
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/sbin/mkcomposecache:
@@ -9661,7 +9661,7 @@
 /usr/sbin/postdrop:
  PIE: yes
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/sbin/lpc:
@@ -9739,7 +9739,7 @@
 /usr/sbin/postmulti:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/sbin/corner:
@@ -9799,7 +9799,7 @@
 /usr/sbin/postmap:
  PIE: yes
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/sbin/zic:
@@ -9823,7 +9823,7 @@
 /usr/sbin/lpinfo:
  PIE: yes
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/sbin/fatlabel:
@@ -9889,7 +9889,7 @@
 /usr/sbin/scpm:
  PIE: no
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/sbin/iwconfig:
@@ -9907,7 +9907,7 @@
 /usr/sbin/cupsctl:
  PIE: yes
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/sbin/dnssec-dsfromkey:
@@ -10021,7 +10021,7 @@
 /usr/sbin/postalias:
  PIE: yes
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/sbin/quota_nld:
@@ -10081,7 +10081,7 @@
 /usr/sbin/postlog:
  PIE: yes
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/sbin/cupsaddsmb:
@@ -10111,7 +10111,7 @@
 /usr/sbin/postqueue:
  PIE: yes
  Stack protected: yes
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/sbin/fbtruetype:
@@ -10141,7 +10141,7 @@
 /usr/sbin/postcat:
  PIE: yes
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/sbin/rpcdebug:
@@ -10327,7 +10327,7 @@
 /usr/sbin/glibc_post_upgrade:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/sbin/fsck.fat:
@@ -10363,7 +10363,7 @@
 /usr/sbin/postfix:
  PIE: yes
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/sbin/ip6tables-batch:
@@ -11107,7 +11107,7 @@
 /sbin/ctrlaltdel:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /sbin/cryptsetup:
@@ -11317,7 +11317,7 @@
 /sbin/ldconfig:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /sbin/runlevel:
@@ -11329,7 +11329,7 @@
 /sbin/isserial:
  PIE: no
  Stack protected: no
- Fortify: unknown
+ Fortify: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /sbin/udevadm:
