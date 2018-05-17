@@ -1,3703 +1,3703 @@
 /usr/sbin/sshd:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/sbin/visudo:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/grub-macbless:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/pppoe-discovery:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/grub-probe:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/cytune:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/sbin/pppd:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/iconvconfig:
  PIE: no
  Stack protected: no
- Fortify: no
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/sbin/tcpdmatch:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/pwconv:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/chgpasswd:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/tcpdump:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/sbin/ldattach:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/sbin/grub-install:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/vcstime:
  PIE: no
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/e4defrag:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/nfnl_osf:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/setvesablank:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/sbin/accessdb:
  PIE: yes
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: yes
 /usr/sbin/chroot:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/grpconv:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/ntpdate:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/sbin/pwunconv:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/chpasswd:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/aa-exec:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/sbin/biosdecode:
  PIE: yes
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/sbin/filefrag:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/sbin/rsyslogd:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/cron:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/grpunconv:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/groupadd:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/e2freefrag:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/sbin/userdel:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/groupdel:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/pam_timestamp_check:
  PIE: yes
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/sbin/useradd:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/try-from:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/sbin/rtcwake:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/arpd:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/groupmod:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/zic:
  PIE: no
  Stack protected: no
- Fortify: no
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/sbin/vpddecode:
  PIE: yes
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/sbin/cppw:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/irqbalance:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/vipw:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/tcpdchk:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/logrotate:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/pppstats:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/ownership:
  PIE: yes
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/sbin/tunelp:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/sbin/rmt-tar:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/nologin:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/sbin/fdformat:
  PIE: no
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/tcpd:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/sbin/grub-mkdevicemap:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/arp:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/usermod:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/pppdump:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/sbin/grpck:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/pwck:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/chat:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/readprofile:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/safe_finger:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/sbin/newusers:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/mklost+found:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/sbin/uuidd:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/update-passwd:
  PIE: no
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/sbin/dmidecode:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/bin/unlink:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/install:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/preconv:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/tset:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/pinky:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/update-alternatives:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/nstat:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/sudoreplay:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/envsubst:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/lsof:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/bin/toe:
  PIE: no
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/sudo:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/setarch:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/apt:
  PIE: no
  Stack protected: no
- Fortify: unknown, no protectable libc functions used
+ Fortify Source functions: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/dpkg-split:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/grub-mkimage:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/objcopy:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/apt-cdrom:
  PIE: no
  Stack protected: no
- Fortify: no
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/setleds:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/shred:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/grub-file:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/objdump:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/grotty:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/grub-fstest:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/python2.7:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/apt-ftparchive:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/volname:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/bin/ipcmk:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/readelf:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/whoami:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/expand:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/cmp:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/telnet.netkit:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/dircolors:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/ltrace:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/uniq:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/gprof:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/lexgrog:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/bin/setkeycodes:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/shuf:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/env:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/addr2line:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/slabtop:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/expiry:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/strings:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/paste:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/base64:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/passwd:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/chcon:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/test:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/numfmt:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/kbdinfo:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/namei:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/nm:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/c++filt:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/du:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/chrt:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/lspci:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/ngettext:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/ipcs:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/pstree:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/chattr:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/groff:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/grub-mkrelpath:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/file:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/diff3:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/tbl:
  PIE: no
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/w.procps:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/csplit:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/pmap:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/wc:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/diff:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/psfxtable:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/uptime:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/catman:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/bin/ionice:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/nice:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/colcrt:
  PIE: no
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/printf:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/flock:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/xxd:
  PIE: no
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/pg:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/make:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/mtr:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/cksum:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/ranlib:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/traceroute6.iputils:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/sftp:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/bin/screendump:
  PIE: no
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/a2p:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/pwdx:
  PIE: no
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/lockfile-remove:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/unshare:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/chsh:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/head:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/gpg:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/oldfind:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/zsoelim:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/bin/resizepart:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/showkey:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/dbus-send:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/apt-get:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/vim.tiny:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/dbus-monitor:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/ncal:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/netkit-ftp:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/ssh-keyscan:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/bin/omshell:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/bin/hostid:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/deallocvt:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/lscpu:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/dig:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/bin/host:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/bin/nslookup:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/bin/top:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/mesg:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/whereis:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/scriptreplay:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/scp:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/bin/split:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/getconf:
  PIE: no
  Stack protected: no
- Fortify: no
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/basename:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/tr:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/find:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/dotlockfile:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/yes:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/ssh:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/bin/stdbuf:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/lnstat:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/ssh-keygen:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/bin/fmt:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/truncate:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/tput:
  PIE: no
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/id:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/pic:
  PIE: no
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/gpasswd:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/timedatectl:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/bin/ar:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/sum:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/fallocate:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/sha256sum:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/ssh-add:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/bin/renice:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/apt-extracttemplates:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/mail-lock:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/whatis:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/bin/getkeycodes:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/elfedit:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/comm:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/getent:
  PIE: no
  Stack protected: no
- Fortify: no
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/dpkg-query:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/groups:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/mail-unlock:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/logname:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/stat:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/setpci:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/usbhid-dump:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/ntfsdecrypt:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/bin/ld.gold:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/troff:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/look:
  PIE: no
  Stack protected: no
- Fortify: unknown, no protectable libc functions used
+ Fortify Source functions: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/localedef:
  PIE: no
  Stack protected: no
- Fortify: no
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/crontab:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/gettext:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/iconv:
  PIE: no
  Stack protected: no
- Fortify: no
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/bsd-write:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/apt-cache:
  PIE: no
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/watch:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/dpkg:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/dpkg-trigger:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/grub-mkrescue:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/faillog:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/factor:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/grub-render-label:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/hostnamectl:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/bin/tic:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/setmetamode:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/grub-glue-efi:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/pldd:
  PIE: no
  Stack protected: no
- Fortify: no
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/mapscrn:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/rsync:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/skill:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/dirname:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/lzmainfo:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/splitfont:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/prtstat:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/strace:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/size:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/tail:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/tload:
  PIE: no
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/dpkg-deb:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/delpart:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/seq:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/apt-config:
  PIE: no
  Stack protected: no
- Fortify: unknown, no protectable libc functions used
+ Fortify Source functions: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/grub-mount:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/link:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/wall:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/tty:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/free:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/perl:
  PIE: no
  Stack protected: no
- Fortify: unknown, no protectable libc functions used
+ Fortify Source functions: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/logger:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/script:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/localectl:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/bin/sort:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/who:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/mawk:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/bsd-from:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/lockfile-check:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/xargs:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/newgrp:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/python3.4:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/expr:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/lsusb:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/ld.bfd:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/pr:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/peekfd:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/calendar:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/partx:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/strip:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/setsid:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/tracepath:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/wget:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/perl5.18.2:
  PIE: no
  Stack protected: no
- Fortify: unknown, no protectable libc functions used
+ Fortify Source functions: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/mlocate:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/xauth:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/aptitude-curses:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/bin/openssl:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/ul:
  PIE: no
  Stack protected: no
- Fortify: no
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/apt-mark:
  PIE: no
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/unexpand:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/updatedb.mlocate:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/lshw:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/soelim:
  PIE: no
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/clear_console:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/setterm:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/x86_64-linux-gnu-elfedit:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/eject:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/bin/nsupdate:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/bin/sha1sum:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/join:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/uuidgen:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/addpart:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/arch:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/mkfifo:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/nl:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/runcon:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/sdiff:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/infocmp:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/last:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/ddate:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/grops:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/printerbanner:
  PIE: no
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/showconsolefont:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/lsattr:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/tracepath6:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/sha384sum:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/rev:
  PIE: no
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/fold:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/pcimodules:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/sha224sum:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/dpkg-statoverride:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/infokey:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/tee:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/ischroot:
  PIE: no
  Stack protected: no
- Fortify: unknown, no protectable libc functions used
+ Fortify Source functions: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/tsort:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/nohup:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/mail-touchlock:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/grub-editenv:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/lastlog:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/x86_64-linux-gnu-readelf:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/grub-mkstandalone:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/rename.ul:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/dwp:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/ptx:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/mcookie:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/manpath:
  PIE: yes
  Stack protected: yes
- Fortify: no
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: yes
 /usr/bin/setlogcons:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/apt-sortpkgs:
  PIE: no
  Stack protected: no
- Fortify: unknown, no protectable libc functions used
+ Fortify Source functions: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/users:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/printenv:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/locale:
  PIE: no
  Stack protected: no
- Fortify: no
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/od:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/codepage:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/eqn:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/gpgv:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/chfn:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/ssh-agent:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/bin/taskset:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/tac:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/man:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/bin/grub-menulst2cfg:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/update-mime-database.real:
  PIE: no
  Stack protected: no
- Fortify: no
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/nproc:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/zdump:
  PIE: no
  Stack protected: no
- Fortify: no
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/grub-script-check:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/clear:
  PIE: no
  Stack protected: no
- Fortify: unknown, no protectable libc functions used
+ Fortify Source functions: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/sha512sum:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/as:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/info:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/vmstat:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/column:
  PIE: no
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/ipcrm:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/grub-mknetdir:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/getopt:
  PIE: no
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/line:
  PIE: no
  Stack protected: no
- Fortify: no
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /usr/bin/ginstall-info:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/killall:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/timeout:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/grub-mkfont:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/python3.4m:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/grub-syslinux2cfg:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/chage:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/time:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/hexdump:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/xz:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/lockfile-create:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/grub-mkpasswd-pbkdf2:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/lockfile-touch:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/tabs:
  PIE: no
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/gpgsplit:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/pgrep:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/aa-enabled:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/bin/resizecons:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /usr/bin/md5sum:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/grub-mklayout:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/dpkg-divert:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/mandb:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /usr/bin/colrm:
  PIE: no
  Stack protected: no
- Fortify: unknown, no protectable libc functions used
+ Fortify Source functions: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /usr/bin/loadunimap:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/cut:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/[:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/pathchk:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /usr/bin/col:
  PIE: no
  Stack protected: no
- Fortify: no
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: no
 /sbin/start-stop-daemon:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/tc:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/apparmor_parser:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /sbin/capsh:
  PIE: no
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/mkfs.cramfs:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/mkfs.fat:
  PIE: no
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/crda:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /sbin/regdbdump:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/ntfsclone:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /sbin/dmsetup:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/ntfscp:
  PIE: yes
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /sbin/killall5:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/upstart-dbus-bridge:
  PIE: yes
  Stack protected: no
- Fortify: unknown, no protectable libc functions used
+ Fortify Source functions: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /sbin/badblocks:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/mkhomedir_helper:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/ntfslabel:
  PIE: yes
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /sbin/sfdisk:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/pam_tally2:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/upstart-udev-bridge:
  PIE: yes
  Stack protected: no
- Fortify: unknown, no protectable libc functions used
+ Fortify Source functions: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /sbin/slattach:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/mkfs:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /sbin/ctrlaltdel:
  PIE: no
  Stack protected: no
- Fortify: unknown, no protectable libc functions used
+ Fortify Source functions: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /sbin/xtables-multi:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/shutdown:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /sbin/dhclient:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /sbin/pivot_root:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /sbin/sysctl:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/e2fsck:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/iptunnel:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/tune2fs:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/ipmaddr:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/e2image:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/nameif:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/runlevel:
  PIE: yes
  Stack protected: yes
- Fortify: no
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: yes
 /sbin/setvtrgb:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /sbin/isosize:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/parted:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/initctl:
  PIE: yes
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: yes
 /sbin/mii-tool:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/biosdevname:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/cfdisk:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/getty:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/ifconfig:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/ldconfig.real:
  PIE: no
  Stack protected: no
- Fortify: unknown, no protectable libc functions used
+ Fortify Source functions: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /sbin/ntfsresize:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /sbin/debugfs:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/getpcaps:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /sbin/fsck.cramfs:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/hwclock:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/bridge:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/getcap:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /sbin/rtacct:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/upstart-local-bridge:
  PIE: yes
  Stack protected: yes
- Fortify: no
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: yes
 /sbin/switch_root:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /sbin/route:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/rarp:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/mkfs.minix:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/rtmon:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/fstab-decode:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /sbin/losetup:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/plymouthd:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/startpar:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/blkid:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/logsave:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/fdisk:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/sulogin:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/upstart-socket-bridge:
  PIE: yes
  Stack protected: yes
- Fortify: no
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: yes
 /sbin/mkswap:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/ntfsundelete:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /sbin/apm_available:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /sbin/ureadahead:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /sbin/ifup:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/partprobe:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /sbin/mke2fs:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/resize2fs:
  PIE: no
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/fsfreeze:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /sbin/e2undo:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /sbin/mntctl:
  PIE: yes
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: yes
 /sbin/swaplabel:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/reboot:
  PIE: yes
  Stack protected: yes
- Fortify: no
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: yes
 /sbin/plipconfig:
  PIE: no
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/fstrim:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /sbin/mountall:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /sbin/mount.fuse:
  PIE: yes
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /sbin/discover:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /sbin/startpar-upstart-inject:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /sbin/mkfs.bfs:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/fsck:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/kbdrate:
  PIE: no
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/dumpe2fs:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/agetty:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/wipefs:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/acpi_available:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /sbin/hdparm:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/swapon:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/setcap:
  PIE: no
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/mkntfs:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /sbin/upstart-file-bridge:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /sbin/fatlabel:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/pam_tally:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/unix_update:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/findfs:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /sbin/init:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /sbin/lvm:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/blockdev:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/fsck.fat:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/raw:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /sbin/upstart-event-bridge:
  PIE: yes
  Stack protected: no
- Fortify: unknown, no protectable libc functions used
+ Fortify Source functions: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: yes
 /sbin/telinit:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /sbin/fsck.minix:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /sbin/unix_chkpwd:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/fuser:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/lowntfs-3g:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /bin/ntfstruncate:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /bin/ntfs-3g.probe:
  PIE: yes
  Stack protected: no
- Fortify: no
+ Fortify Source functions: no
  RELRO: yes
  Immediate binding: yes
 /bin/whiptail:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/bunzip2:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/tar:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/netstat:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/uname:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/sed:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/readlink:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/kmod:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/loginctl:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /bin/sleep:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/plymouth:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/sync:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/cpio:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/cat:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/ntfswipe:
  PIE: yes
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /bin/ntfscat:
  PIE: yes
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /bin/mknod:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/ntfsck:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /bin/ntfscluster:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /bin/dbus-daemon:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/ntfsmftalloc:
  PIE: yes
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /bin/ls:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/login:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/gzip:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/tailf:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/mktemp:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/udevadm:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /bin/chgrp:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/findmnt:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/lsblk:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/dbus-uuidgen:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /bin/mt-gnu:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/pwd:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/bzip2:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/ping6:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/date:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/mountpoint:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/setfont:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/stty:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/dmesg:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /bin/ntfsls:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /bin/mv:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/ntfsinfo:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /bin/kbd_mode:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /bin/ntfs-3g.usermap:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /bin/echo:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/df:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/dbus-cleanup-sockets:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/grep:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/ss:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/su:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/chown:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/ln:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/run-parts:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/more:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/kill:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/fgrep:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/rmdir:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/busybox:
  PIE: no
  Stack protected: no
- Fortify: unknown, no protectable libc functions used
+ Fortify Source functions: unknown, no protectable libc functions used
  RELRO: yes
  Immediate binding: no
 /bin/openvt:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/lessecho:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /bin/chmod:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/ping:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/plymouth-upstart-bridge:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /bin/ip:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/hostname:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/less:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/mount:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/true:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/false:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/ntfs-3g:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /bin/bash:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/cp:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/tempfile:
  PIE: no
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/fusermount:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /bin/mkdir:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/ed:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/vdir:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/ntfsfix:
  PIE: yes
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /bin/dumpkeys:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /bin/dd:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/bzcat:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/ntfs-3g.secaudit:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /bin/ulockmgr_server:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /bin/dash:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /bin/chvt:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /bin/nc.openbsd:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/egrep:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/umount:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/rm:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/lesskey:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/dir:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/ps:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/loadkeys:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/ntfscmp:
  PIE: yes
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /bin/ntfsmove:
  PIE: yes
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /bin/nano:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/touch:
  PIE: no
  Stack protected: yes
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: no
 /bin/fgconsole:
  PIE: no
  Stack protected: yes
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 /bin/ntfsdump_logfile:
  PIE: yes
  Stack protected: no
- Fortify: partial
+ Fortify Source functions: partial
  RELRO: yes
  Immediate binding: yes
 /bin/bzip2recover:
  PIE: no
  Stack protected: no
- Fortify: yes
+ Fortify Source functions: yes
  RELRO: yes
  Immediate binding: no
 randomize_va_space: 2
