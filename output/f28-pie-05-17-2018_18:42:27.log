@@ -6478,4 +6478,3 @@
  Fortify Source functions: yes
  Read-only relocations: yes
  Immediate binding: yes
-randomize_va_space: 2

@@ -3772,4 +3772,3 @@
  Fortify Source functions: yes
  Read-only relocations: no, not found!
  Immediate binding: no, not found!
-randomize_va_space: 2

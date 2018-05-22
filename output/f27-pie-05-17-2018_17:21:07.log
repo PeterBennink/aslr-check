@@ -6568,4 +6568,3 @@
  Fortify Source functions: yes (some protected functions found)
  Read-only relocations: yes
  Immediate binding: yes
-randomize_va_space: 2
