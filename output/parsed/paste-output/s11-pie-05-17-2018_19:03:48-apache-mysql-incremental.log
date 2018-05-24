@@ -1,0 +1,16 @@
+/usr/bin/mysqlshow,0,1,1,0
+/usr/bin/myisamlog,0,1,1,0
+/usr/bin/resolve_stack_dump,0,1,1,0
+/usr/bin/mysql_upgrade,0,1,1,0
+/usr/bin/myisam_ftdump,0,1,1,0
+/usr/bin/mysqladmin,0,1,1,0
+/usr/bin/innochecksum,0,0,1,0
+/usr/bin/mysqlbinlog,0,1,1,0
+/usr/bin/myisampack,0,1,1,0
+/usr/bin/my_print_defaults,0,1,1,0
+/usr/bin/mysqldump,0,1,1,0
+/usr/bin/mysql,0,1,1,0
+/usr/bin/mysqlcheck,0,1,1,0
+/usr/bin/myisamchk,0,1,1,0
+/usr/bin/mysqlimport,0,1,1,0
+/usr/bin/resolveip,0,1,1,0

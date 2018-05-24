@@ -1,0 +1,13 @@
+/usr/sbin/snmpd,1,1,1,1
+/usr/sbin/snmptrapd,1,1,1,1
+/usr/bin/xsltproc,0,0,0,0
+/usr/bin/php-cgi,0,1,0,0
+/usr/bin/djpeg,0,1,0,0
+/usr/bin/rdjpgcom,0,0,0,0
+/usr/bin/cjpeg,0,1,0,0
+/usr/bin/word-list-compress,0,1,0,0
+/usr/bin/prezip-bin,0,0,0,0
+/usr/bin/jpegtran,0,0,0,0
+/usr/bin/wrjpgcom,0,0,0,0
+/usr/bin/php,0,1,0,0
+/usr/bin/aspell,0,1,0,0

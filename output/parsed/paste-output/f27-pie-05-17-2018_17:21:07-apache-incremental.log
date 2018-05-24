@@ -1,0 +1,11 @@
+/usr/bin/ab,1,1,1,1
+/usr/bin/htdbm,1,1,1,1
+/usr/bin/htdigest,1,1,1,1
+/usr/bin/htpasswd,1,1,1,1
+/usr/bin/httxt2dbm,1,1,1,1
+/usr/bin/logresolve,1,1,1,1
+/usr/bin/brotli,1,1,1,1
+/usr/sbin/htcacheclean,1,1,1,1
+/usr/sbin/httpd,1,1,1,1
+/usr/sbin/fcgistarter,1,1,1,1
+/usr/sbin/rotatelogs,1,1,1,1

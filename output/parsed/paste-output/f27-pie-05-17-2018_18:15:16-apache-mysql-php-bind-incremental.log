@@ -1,0 +1,8 @@
+/usr/bin/mdig,1,1,1,1
+/usr/bin/named-rrchecker,1,1,1,1
+/usr/sbin/rndc-confgen,1,1,1,1
+/usr/sbin/rndc,1,1,1,1
+/usr/sbin/named-checkconf,1,1,1,1
+/usr/sbin/named-journalprint,1,1,1,1
+/usr/sbin/named,1,1,1,1
+/usr/sbin/lwresd,1,1,1,1

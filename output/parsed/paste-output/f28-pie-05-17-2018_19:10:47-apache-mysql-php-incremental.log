@@ -1,0 +1,13 @@
+/usr/bin/php,1,1,1,1
+/usr/bin/fc-cache-64,1,1,1,1
+/usr/bin/fc-cat,1,1,1,1
+/usr/bin/fc-conflist,1,1,1,1
+/usr/bin/fc-list,1,0,1,1
+/usr/bin/fc-match,1,1,1,1
+/usr/bin/fc-pattern,1,0,1,1
+/usr/bin/fc-query,1,0,1,1
+/usr/bin/fc-scan,1,0,1,1
+/usr/bin/fc-validate,1,1,1,1
+/usr/bin/php-cgi,1,1,1,1
+/usr/bin/zts-php,1,1,1,1
+/usr/bin/xsltproc,1,1,1,1

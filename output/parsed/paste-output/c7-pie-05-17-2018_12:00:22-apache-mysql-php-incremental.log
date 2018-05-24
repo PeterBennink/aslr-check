@@ -1,0 +1,5 @@
+/usr/bin/php,1,1,1,1
+/usr/bin/zipcmp,0,1,1,0
+/usr/bin/zipmerge,0,0,1,0
+/usr/bin/ziptorrent,0,1,1,0
+/usr/bin/php-cgi,1,1,1,1
