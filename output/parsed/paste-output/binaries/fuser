@@ -1,0 +1,7 @@
+../c6-pie-05-14-2018_09:43:48-clean.log:/sbin/fuser,0,1,0,0
+../d8-pie-05-14-2018_09:44:37-clean.log:/bin/fuser,0,1,1,0
+../s11-pie-05-14-2018_19:15:57-clean.log:/bin/fuser,0,1,1,0
+../s12-pie-05-14-2018_13:30:27-clean.log:/bin/fuser,0,1,1,0
+../u14-pie-05-14-2018_18:22:01-clean.log:/bin/fuser,0,1,1,0
+../u16-pie-05-17-2018_18:46:13-apache-mysql-incremental.log:/bin/fuser,0,1,1,0
+../u18-pie-05-14-2018_13:39:14-clean.log:/bin/fuser,1,1,1,1

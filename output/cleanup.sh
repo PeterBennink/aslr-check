@@ -19,5 +19,9 @@ sed -i '' '/.*Fortify.*/d' *.log
 sed -i '' 's/.*: yes.*/1/' *.log
 sed -i '' 's/.*: no.*/0/' *.log
 
-paste -sd '\n   \n' u18-pie-05-14-2018_13:39:14-clean.log > new.log
-sed -i '' 's/://g' *.log
+for i in $(ls *.log)
+do
+paste -sd ',,,,\n' $i > paste-output/$i
+done
+
+sed -i '' 's/://g' paste-output/*.log
